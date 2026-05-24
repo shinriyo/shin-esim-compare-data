@@ -13,7 +13,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/sint-maartendutch-part-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -27,7 +30,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/sint-maartendutch-part-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -41,7 +47,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/sint-maartendutch-part-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -55,7 +64,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/sint-maartendutch-part-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -69,7 +81,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/sint-maartendutch-part-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     }
   ]
 }

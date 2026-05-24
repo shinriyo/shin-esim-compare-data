@@ -13,7 +13,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/united-arab-emirates-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -27,7 +30,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/united-arab-emirates-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -41,7 +47,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/united-arab-emirates-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -55,7 +64,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/united-arab-emirates-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -69,7 +81,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/united-arab-emirates-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -83,7 +98,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/united-arab-emirates-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -97,7 +115,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/united-arab-emirates-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -111,7 +132,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -125,7 +149,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -139,7 +166,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -153,7 +183,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -167,7 +200,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -181,7 +217,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -195,7 +234,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -209,7 +251,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -223,7 +268,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -237,7 +285,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -251,7 +302,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -265,7 +319,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -279,7 +336,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -293,7 +353,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -307,7 +370,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -321,7 +387,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -335,7 +404,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -349,7 +421,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -363,7 +438,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -377,7 +455,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -391,7 +472,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -405,7 +489,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -419,7 +506,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -433,7 +523,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -447,7 +540,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -461,7 +557,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -475,7 +574,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -489,7 +591,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -503,7 +608,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -517,7 +625,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -531,7 +642,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -545,7 +659,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -559,7 +676,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -573,7 +693,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -587,7 +710,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -601,7 +727,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -615,7 +744,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -629,7 +761,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -643,7 +778,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -657,7 +795,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -671,7 +812,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -685,7 +829,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -699,7 +846,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -713,7 +863,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -727,7 +880,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -741,7 +897,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -755,7 +914,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -769,7 +931,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -783,7 +948,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -797,7 +965,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -811,7 +982,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -825,7 +999,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -839,7 +1016,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -853,7 +1033,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -867,7 +1050,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -881,7 +1067,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -895,7 +1084,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -909,7 +1101,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -923,7 +1118,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -937,7 +1135,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -951,7 +1152,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -965,7 +1169,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -979,7 +1186,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -993,7 +1203,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1007,7 +1220,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1021,7 +1237,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1035,7 +1254,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1049,7 +1271,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1063,7 +1288,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1077,7 +1305,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1091,7 +1322,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1105,7 +1339,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1119,7 +1356,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1133,7 +1373,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1147,7 +1390,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "eSIM Data",
@@ -1161,7 +1407,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-united-arab-emirates",
-      "lastCheckedAt": "2026-05-24T05:43:01.226783+00:00"
+      "lastCheckedAt": "2026-05-24T22:14:32.836190+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1175,7 +1424,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1189,7 +1441,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1203,7 +1458,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1217,7 +1475,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1231,7 +1492,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1245,7 +1509,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1259,7 +1526,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "2GB/day at 4G/5G. 1 Mbps after 2GB",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1273,7 +1543,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1287,7 +1560,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1301,7 +1577,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "2GB/day at 4G/5G. 1 Mbps after 2GB",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1315,7 +1594,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1329,7 +1611,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1343,7 +1628,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "2GB/day at 4G/5G. 1 Mbps after 2GB",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -1357,7 +1645,129 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/united-arab-emirates-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "2GB/day at 4G/5G. 1 Mbps after 2GB",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "AE",
+      "rawCoverageName": "Uae",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 23.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/uae-data-plans/uae-10gb-30-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "AE",
+      "rawCoverageName": "Uae",
+      "days": 7,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 20.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/uae-data-plans/uae-10gb-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "AE",
+      "rawCoverageName": "Uae",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 5.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/uae-data-plans/uae-1gb-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "AE",
+      "rawCoverageName": "Uae",
+      "days": 30,
+      "dataGb": 25.0,
+      "isUnlimited": false,
+      "priceUsd": 49.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/uae-data-plans/uae-25gb-30-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "AE",
+      "rawCoverageName": "Uae",
+      "days": 15,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 10.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/uae-data-plans/uae-3gb-15-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "AE",
+      "rawCoverageName": "Uae",
+      "days": 1,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 12.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/uae-data-plans/uae-unlimited-1-day/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "AE",
+      "rawCoverageName": "Uae",
+      "days": 7,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 39.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/uae-data-plans/uae-unlimited-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
     }
   ]
 }

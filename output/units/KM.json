@@ -1,0 +1,39 @@
+{
+  "coverageCode": "KM",
+  "plans": [
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "KM",
+      "rawCoverageName": "Comoros",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 9.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/comoros-data-plans/comoros-1gb-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "KM",
+      "rawCoverageName": "Comoros",
+      "days": 15,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 18.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/comoros-data-plans/comoros-3gb-15-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    }
+  ]
+}

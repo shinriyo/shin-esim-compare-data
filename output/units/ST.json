@@ -13,7 +13,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/sao-tome-and-principe-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -27,7 +30,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/sao-tome-and-principe-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     }
   ]
 }

@@ -13,7 +13,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/indonesia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -27,7 +30,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/indonesia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -41,7 +47,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/indonesia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -55,7 +64,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/indonesia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -69,7 +81,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/indonesia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -83,7 +98,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/indonesia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -97,7 +115,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/indonesia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "5G",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -111,7 +132,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -125,7 +149,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -139,7 +166,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -153,7 +183,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -167,7 +200,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -181,7 +217,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -195,7 +234,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -209,7 +251,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -223,7 +268,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -237,7 +285,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -251,7 +302,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -265,7 +319,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -279,7 +336,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "2GB/day at 4G/5G. 512Kbps after 2GB",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -293,7 +353,146 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/indonesia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "2GB/day at 4G/5G. 512Kbps after 2GB",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "ID",
+      "rawCoverageName": "Indonesia",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 16.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/indonesia-data-plans/indonesia-10gb-30-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "ID",
+      "rawCoverageName": "Indonesia",
+      "days": 7,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 14.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/indonesia-data-plans/indonesia-10gb-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "ID",
+      "rawCoverageName": "Indonesia",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 4.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/indonesia-data-plans/indonesia-1gb-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "ID",
+      "rawCoverageName": "Indonesia",
+      "days": 30,
+      "dataGb": 25.0,
+      "isUnlimited": false,
+      "priceUsd": 28.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/indonesia-data-plans/indonesia-25gb-30-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "ID",
+      "rawCoverageName": "Indonesia",
+      "days": 15,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 7.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/indonesia-data-plans/indonesia-3gb-15-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "ID",
+      "rawCoverageName": "Indonesia",
+      "days": 15,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 46.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/indonesia-data-plans/indonesia-unlimited-15-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "ID",
+      "rawCoverageName": "Indonesia",
+      "days": 30,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 66.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/indonesia-data-plans/indonesia-unlimited-30-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "ID",
+      "rawCoverageName": "Indonesia",
+      "days": 7,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 25.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/indonesia-data-plans/indonesia-unlimited-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
     }
   ]
 }

@@ -13,7 +13,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "LTE",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -27,7 +30,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "LTE",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -41,7 +47,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "LTE",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -55,7 +64,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "LTE",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Airalo",
@@ -69,7 +81,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+      "lastCheckedAt": "2026-05-24T22:13:18.734698+00:00",
+      "networkSpeed": "LTE",
+      "apn": "globaldata",
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -83,7 +98,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bolivia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -97,7 +115,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bolivia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -111,7 +132,10 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bolivia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
     },
     {
       "provider": "Nomad",
@@ -125,7 +149,112 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bolivia-eSIM",
-      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+      "lastCheckedAt": "2026-05-24T22:15:53.509825+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "BO",
+      "rawCoverageName": "Bolivia",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 29.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-10gb-30-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "BO",
+      "rawCoverageName": "Bolivia",
+      "days": 7,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 24.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-10gb-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "BO",
+      "rawCoverageName": "Bolivia",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 6.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-1gb-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "BO",
+      "rawCoverageName": "Bolivia",
+      "days": 15,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 12.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-3gb-15-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "BO",
+      "rawCoverageName": "Bolivia",
+      "days": 15,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 59.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-unlimited-15-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "BO",
+      "rawCoverageName": "Bolivia",
+      "days": 7,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 35.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-unlimited-7-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-05-24T22:18:00.355016+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
     }
   ]
 }
