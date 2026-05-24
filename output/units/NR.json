@@ -1,0 +1,89 @@
+{
+  "coverageCode": "NR",
+  "plans": [
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "NR",
+      "rawCoverageName": "Nauru",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 9.5,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/nauru-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "NR",
+      "rawCoverageName": "Nauru",
+      "days": 15,
+      "dataGb": 2.0,
+      "isUnlimited": false,
+      "priceUsd": 19.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/nauru-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "NR",
+      "rawCoverageName": "Nauru",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 28.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/nauru-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "NR",
+      "rawCoverageName": "Nauru",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 20.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/nauru-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "NR",
+      "rawCoverageName": "Nauru",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 70.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/nauru-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "NR",
+      "rawCoverageName": "Nauru",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 50.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/nauru-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "coverageCode": "CI",
+  "plans": [
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "CI",
+      "rawCoverageName": "Côte d'Ivoire",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 9.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/cote-divoire-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "CI",
+      "rawCoverageName": "Côte d'Ivoire",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 20.5,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/cote-divoire-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "CI",
+      "rawCoverageName": "Côte d'Ivoire",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 32.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/cote-divoire-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "CI",
+      "rawCoverageName": "Côte d'Ivoire",
+      "days": 15,
+      "dataGb": 2.0,
+      "isUnlimited": false,
+      "priceUsd": 15.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/cote-divoire-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    }
+  ]
+}

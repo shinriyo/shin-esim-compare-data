@@ -1,0 +1,89 @@
+{
+  "coverageCode": "PR",
+  "plans": [
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "PR",
+      "rawCoverageName": "Puerto Rico",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 25.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/puerto-rico-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "PR",
+      "rawCoverageName": "Puerto Rico",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 15.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/puerto-rico-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "PR",
+      "rawCoverageName": "Puerto Rico",
+      "days": 30,
+      "dataGb": 20.0,
+      "isUnlimited": false,
+      "priceUsd": 35.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/puerto-rico-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "PR",
+      "rawCoverageName": "Puerto Rico",
+      "days": 30,
+      "dataGb": 50.0,
+      "isUnlimited": false,
+      "priceUsd": 49.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/puerto-rico-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "PR",
+      "rawCoverageName": "Puerto Rico",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 11.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/puerto-rico-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "PR",
+      "rawCoverageName": "Puerto Rico",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 4.5,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/puerto-rico-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    }
+  ]
+}

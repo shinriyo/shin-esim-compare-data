@@ -1,0 +1,103 @@
+{
+  "coverageCode": "YT",
+  "plans": [
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "YT",
+      "rawCoverageName": "Mayotte",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 4.5,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/mayotte-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "YT",
+      "rawCoverageName": "Mayotte",
+      "days": 15,
+      "dataGb": 2.0,
+      "isUnlimited": false,
+      "priceUsd": 7.5,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/mayotte-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "YT",
+      "rawCoverageName": "Mayotte",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 10.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/mayotte-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "YT",
+      "rawCoverageName": "Mayotte",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 14.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/mayotte-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "YT",
+      "rawCoverageName": "Mayotte",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 23.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/mayotte-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "YT",
+      "rawCoverageName": "Mayotte",
+      "days": 30,
+      "dataGb": 20.0,
+      "isUnlimited": false,
+      "priceUsd": 36.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/mayotte-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "YT",
+      "rawCoverageName": "Mayotte",
+      "days": 10,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 35.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/mayotte-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    }
+  ]
+}

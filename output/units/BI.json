@@ -1,0 +1,33 @@
+{
+  "coverageCode": "BI",
+  "plans": [
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "BI",
+      "rawCoverageName": "Burundi",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 19.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/burundi-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "BI",
+      "rawCoverageName": "Burundi",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 45.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/burundi-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    }
+  ]
+}

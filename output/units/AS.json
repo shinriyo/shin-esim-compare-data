@@ -1,0 +1,19 @@
+{
+  "coverageCode": "AS",
+  "plans": [
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "AS",
+      "rawCoverageName": "American Samoa",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 75.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/american-samoa-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    }
+  ]
+}

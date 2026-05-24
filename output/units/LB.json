@@ -1,0 +1,19 @@
+{
+  "coverageCode": "LB",
+  "plans": [
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "LB",
+      "rawCoverageName": "Lebanon",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 19.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/lebanon-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "coverageCode": "ZW",
+  "plans": [
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "ZW",
+      "rawCoverageName": "Zimbabwe",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 19.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/zimbabwe-esim",
+      "lastCheckedAt": "2026-05-24T05:41:08.201796+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "ZW",
+      "rawCoverageName": "Zimbabwe",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 49.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/zimbabwe-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "ZW",
+      "rawCoverageName": "Zimbabwe",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 39.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/zimbabwe-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    }
+  ]
+}

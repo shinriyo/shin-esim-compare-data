@@ -1,0 +1,33 @@
+{
+  "coverageCode": "ST",
+  "plans": [
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "ST",
+      "rawCoverageName": "Sao Tome and Principe",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 25.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/sao-tome-and-principe-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "ST",
+      "rawCoverageName": "Sao Tome and Principe",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 59.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/sao-tome-and-principe-eSIM",
+      "lastCheckedAt": "2026-05-24T05:45:22.371867+00:00"
+    }
+  ]
+}
