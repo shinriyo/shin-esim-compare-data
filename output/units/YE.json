@@ -1,0 +1,56 @@
+{
+  "coverageCode": "YE",
+  "plans": [
+    {
+      "provider": "RedteaGO",
+      "coverageType": "unit",
+      "coverageCode": "YE",
+      "rawCoverageName": "Middle East (10+ countries)",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 16.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://esim.redteago.com/esim-middle-east-10-countries?packageId=3188",
+      "lastCheckedAt": "2026-05-26T08:56:31.909128+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "RedteaGO",
+      "coverageType": "unit",
+      "coverageCode": "YE",
+      "rawCoverageName": "Middle East (10+ countries)",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 10.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://esim.redteago.com/esim-middle-east-10-countries?packageId=1577",
+      "lastCheckedAt": "2026-05-26T08:56:31.909128+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "RedteaGO",
+      "coverageType": "unit",
+      "coverageCode": "YE",
+      "rawCoverageName": "Middle East (10+ countries)",
+      "days": 30,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 6.8,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://esim.redteago.com/esim-middle-east-10-countries?packageId=1576",
+      "lastCheckedAt": "2026-05-26T08:56:31.909128+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    }
+  ]
+}

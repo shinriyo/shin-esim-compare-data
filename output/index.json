@@ -1,15 +1,17 @@
 {
-  "generatedAt": "2026-05-25T21:08:15.627342+00:00",
+  "generatedAt": "2026-05-26T08:56:44.007479+00:00",
   "lintWarnings": 21,
   "planCounts": {
     "regions": 183,
-    "units": 7241
+    "units": 11623
   },
   "providers": [
     "Airalo",
+    "ByteSIM",
     "eSIM Data",
     "Holafly",
     "Nomad",
+    "RedteaGO",
     "Ubigi"
   ],
   "regions": [
@@ -31,6 +33,7 @@
     "AT",
     "AU",
     "AW",
+    "AX",
     "AZ",
     "BA",
     "BB",
@@ -227,6 +230,7 @@
     "VU",
     "WS",
     "XK",
+    "YE",
     "YT",
     "ZA",
     "ZM",

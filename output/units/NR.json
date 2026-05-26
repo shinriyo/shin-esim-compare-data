@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/nauru-esim",
-      "lastCheckedAt": "2026-05-24T21:49:54.178670+00:00",
+      "lastCheckedAt": "2026-05-26T08:47:51.523098+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/nauru-esim",
-      "lastCheckedAt": "2026-05-24T21:49:54.178670+00:00",
+      "lastCheckedAt": "2026-05-26T08:47:51.523098+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -47,26 +47,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/nauru-esim",
-      "lastCheckedAt": "2026-05-24T21:49:54.178670+00:00",
+      "lastCheckedAt": "2026-05-26T08:47:51.523098+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "NR",
-      "rawCoverageName": "Nauru",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 20.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/nauru-eSIM",
-      "lastCheckedAt": "2026-05-24T21:52:47.338095+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
       "tethering": null
     },
     {
@@ -81,7 +64,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/nauru-eSIM",
-      "lastCheckedAt": "2026-05-24T21:52:47.338095+00:00",
+      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "NR",
+      "rawCoverageName": "Nauru",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 20.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/nauru-eSIM",
+      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/nauru-eSIM",
-      "lastCheckedAt": "2026-05-24T21:52:47.338095+00:00",
+      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/nauru-data-plans/nauru-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-05-24T21:57:19.775587+00:00",
+      "lastCheckedAt": "2026-05-26T08:56:35.041791+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/nauru-data-plans/nauru-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-05-24T21:57:19.775587+00:00",
+      "lastCheckedAt": "2026-05-26T08:56:35.041791+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
