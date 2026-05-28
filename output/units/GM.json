@@ -13,9 +13,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gambia-esim",
-      "lastCheckedAt": "2026-05-26T08:47:51.523098+00:00",
+      "lastCheckedAt": "2026-05-28T20:33:13.448883+00:00",
       "networkSpeed": "4G",
-      "apn": "wbdata",
+      "apn": null,
       "tethering": null
     },
     {
@@ -30,9 +30,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gambia-esim",
-      "lastCheckedAt": "2026-05-26T08:47:51.523098+00:00",
+      "lastCheckedAt": "2026-05-28T20:33:13.448883+00:00",
       "networkSpeed": "4G",
-      "apn": "wbdata",
+      "apn": null,
       "tethering": null
     },
     {
@@ -47,9 +47,26 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gambia-esim",
-      "lastCheckedAt": "2026-05-26T08:47:51.523098+00:00",
+      "lastCheckedAt": "2026-05-28T20:33:13.448883+00:00",
       "networkSpeed": "4G",
-      "apn": "wbdata",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "GM",
+      "rawCoverageName": "Gambia",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 44.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/gambia-esim",
+      "lastCheckedAt": "2026-05-28T20:33:13.448883+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
       "tethering": null
     },
     {
@@ -64,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gambia-eSIM",
-      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "lastCheckedAt": "2026-05-28T20:36:03.880822+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -81,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gambia-eSIM",
-      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "lastCheckedAt": "2026-05-28T20:36:03.880822+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -98,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gambia-eSIM",
-      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "lastCheckedAt": "2026-05-28T20:36:03.880822+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -115,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gambia-eSIM",
-      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "lastCheckedAt": "2026-05-28T20:36:03.880822+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -132,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gambia-eSIM",
-      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "lastCheckedAt": "2026-05-28T20:36:03.880822+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -149,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gambia-eSIM",
-      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "lastCheckedAt": "2026-05-28T20:36:03.880822+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -166,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gambia-eSIM",
-      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "lastCheckedAt": "2026-05-28T20:36:03.880822+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -183,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gambia-eSIM",
-      "lastCheckedAt": "2026-05-26T08:52:26.283606+00:00",
+      "lastCheckedAt": "2026-05-28T20:36:03.880822+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
