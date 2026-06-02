@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/honduras-esim",
-      "lastCheckedAt": "2026-06-01T21:40:55.059288+00:00",
+      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/honduras-esim",
-      "lastCheckedAt": "2026-06-01T21:40:55.059288+00:00",
+      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/honduras-esim",
-      "lastCheckedAt": "2026-06-01T21:40:55.059288+00:00",
+      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/honduras-esim",
-      "lastCheckedAt": "2026-06-01T21:40:55.059288+00:00",
+      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/honduras-esim",
-      "lastCheckedAt": "2026-06-01T21:40:55.059288+00:00",
+      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/honduras-esim",
-      "lastCheckedAt": "2026-06-01T21:40:55.059288+00:00",
+      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/honduras-esim",
-      "lastCheckedAt": "2026-06-01T21:40:55.059288+00:00",
+      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -128,11 +128,11 @@
       "days": 1,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 9.9,
+      "priceUsd": 9.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-honduras/",
-      "lastCheckedAt": "2026-06-01T21:42:35.921394+00:00",
+      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Tigo Honduras",
@@ -149,11 +149,11 @@
       "days": 3,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 29.7,
+      "priceUsd": 28.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-honduras/",
-      "lastCheckedAt": "2026-06-01T21:42:35.921394+00:00",
+      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Tigo Honduras",
@@ -170,11 +170,11 @@
       "days": 5,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 49.5,
+      "priceUsd": 47.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-honduras/",
-      "lastCheckedAt": "2026-06-01T21:42:35.921394+00:00",
+      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Tigo Honduras",
@@ -191,11 +191,11 @@
       "days": 7,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 69.3,
+      "priceUsd": 66.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-honduras/",
-      "lastCheckedAt": "2026-06-01T21:42:35.921394+00:00",
+      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Tigo Honduras",
@@ -212,11 +212,11 @@
       "days": 10,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 99.0,
+      "priceUsd": 95.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-honduras/",
-      "lastCheckedAt": "2026-06-01T21:42:35.921394+00:00",
+      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Tigo Honduras",
@@ -233,11 +233,11 @@
       "days": 15,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 148.5,
+      "priceUsd": 142.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-honduras/",
-      "lastCheckedAt": "2026-06-01T21:42:35.921394+00:00",
+      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Tigo Honduras",
@@ -254,11 +254,11 @@
       "days": 30,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 297.0,
+      "priceUsd": 285.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-honduras/",
-      "lastCheckedAt": "2026-06-01T21:42:35.921394+00:00",
+      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Tigo Honduras",
@@ -279,7 +279,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -296,7 +296,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -313,7 +313,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -330,7 +330,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -347,7 +347,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -364,7 +364,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -381,7 +381,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -398,7 +398,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -415,7 +415,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -432,7 +432,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -449,7 +449,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/honduras-eSIM",
-      "lastCheckedAt": "2026-06-01T21:43:46.174249+00:00",
+      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -466,7 +466,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -483,7 +483,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -500,7 +500,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -517,7 +517,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -534,7 +534,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -551,7 +551,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -568,7 +568,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-honduras?packageId=2991",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -585,7 +585,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-honduras?packageId=3514",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -602,7 +602,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-honduras?packageId=2992",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -619,7 +619,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-honduras?packageId=3693",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -636,7 +636,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-30-countries?packageId=3312",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -653,7 +653,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-30-countries?packageId=3311",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -670,7 +670,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-30-countries?packageId=3310",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -687,7 +687,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-30-countries?packageId=3313",
-      "lastCheckedAt": "2026-06-01T21:46:06.974688+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -704,7 +704,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/honduras-data-plans/honduras-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-01T21:46:08.934582+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -721,7 +721,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/honduras-data-plans/honduras-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-01T21:46:08.934582+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -738,7 +738,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/honduras-data-plans/honduras-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-01T21:46:08.934582+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -755,7 +755,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/honduras-data-plans/honduras-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-01T21:46:08.934582+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -772,7 +772,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/honduras-data-plans/honduras-unlimited-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-01T21:46:08.934582+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -789,7 +789,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/honduras-data-plans/honduras-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-01T21:46:08.934582+00:00",
+      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
