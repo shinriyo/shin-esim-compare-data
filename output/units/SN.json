@@ -13,9 +13,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/senegal-esim",
-      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
+      "lastCheckedAt": "2026-06-03T21:23:49.677609+00:00",
       "networkSpeed": "4G",
-      "apn": null,
+      "apn": "globaldata",
       "tethering": null
     },
     {
@@ -30,9 +30,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/senegal-esim",
-      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
+      "lastCheckedAt": "2026-06-03T21:23:49.677609+00:00",
       "networkSpeed": "4G",
-      "apn": null,
+      "apn": "globaldata",
       "tethering": null
     },
     {
@@ -47,9 +47,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/senegal-esim",
-      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
+      "lastCheckedAt": "2026-06-03T21:23:49.677609+00:00",
       "networkSpeed": "4G",
-      "apn": null,
+      "apn": "globaldata",
       "tethering": null
     },
     {
@@ -64,9 +64,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/senegal-esim",
-      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
+      "lastCheckedAt": "2026-06-03T21:23:49.677609+00:00",
       "networkSpeed": "4G",
-      "apn": null,
+      "apn": "globaldata",
       "tethering": null
     },
     {
@@ -81,9 +81,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/senegal-esim",
-      "lastCheckedAt": "2026-06-02T21:18:29.067758+00:00",
+      "lastCheckedAt": "2026-06-03T21:23:49.677609+00:00",
       "networkSpeed": "4G",
-      "apn": null,
+      "apn": "globaldata",
       "tethering": null
     },
     {
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-senegal/",
-      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
+      "lastCheckedAt": "2026-06-03T21:25:28.236182+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Orange Senegal"
@@ -118,7 +118,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-senegal/",
-      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
+      "lastCheckedAt": "2026-06-03T21:25:28.236182+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Orange Senegal"
@@ -138,7 +138,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-senegal/",
-      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
+      "lastCheckedAt": "2026-06-03T21:25:28.236182+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Orange Senegal"
@@ -158,7 +158,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-senegal/",
-      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
+      "lastCheckedAt": "2026-06-03T21:25:28.236182+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Orange Senegal"
@@ -178,7 +178,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-senegal/",
-      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
+      "lastCheckedAt": "2026-06-03T21:25:28.236182+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Orange Senegal"
@@ -198,7 +198,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-senegal/",
-      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
+      "lastCheckedAt": "2026-06-03T21:25:28.236182+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Orange Senegal"
@@ -218,164 +218,11 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-senegal/",
-      "lastCheckedAt": "2026-06-02T21:20:07.218413+00:00",
+      "lastCheckedAt": "2026-06-03T21:25:28.236182+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Orange Senegal"
       ],
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 17.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 12.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 6.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 25.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 16.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 30,
-      "dataGb": 20.0,
-      "isUnlimited": false,
-      "priceUsd": 31.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 21.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 29.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SN",
-      "rawCoverageName": "Senegal",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 6.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/senegal-eSIM",
-      "lastCheckedAt": "2026-06-02T21:21:16.484823+00:00",
-      "networkSpeed": "4G",
       "apn": null,
       "tethering": null
     },
@@ -391,7 +238,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:40.191153+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -408,7 +255,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:40.191153+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -425,7 +272,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:40.191153+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -442,7 +289,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:40.191153+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -459,7 +306,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:40.191153+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -476,7 +323,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-06-02T21:23:43.627692+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:40.191153+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -493,7 +340,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/senegal-data-plans/senegal-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:42.219528+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -510,7 +357,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/senegal-data-plans/senegal-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:42.219528+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -527,7 +374,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/senegal-data-plans/senegal-25gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:42.219528+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -544,7 +391,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/senegal-data-plans/senegal-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:42.219528+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -561,7 +408,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/senegal-data-plans/senegal-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-02T21:23:45.456349+00:00",
+      "lastCheckedAt": "2026-06-03T21:26:42.219528+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
