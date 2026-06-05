@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/costa-rica-esim",
-      "lastCheckedAt": "2026-06-04T20:13:19.166866+00:00",
+      "lastCheckedAt": "2026-06-05T20:03:35.373873+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/costa-rica-esim",
-      "lastCheckedAt": "2026-06-04T20:13:19.166866+00:00",
+      "lastCheckedAt": "2026-06-05T20:03:35.373873+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/costa-rica-esim",
-      "lastCheckedAt": "2026-06-04T20:13:19.166866+00:00",
+      "lastCheckedAt": "2026-06-05T20:03:35.373873+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/costa-rica-esim",
-      "lastCheckedAt": "2026-06-04T20:13:19.166866+00:00",
+      "lastCheckedAt": "2026-06-05T20:03:35.373873+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/costa-rica-esim",
-      "lastCheckedAt": "2026-06-04T20:13:19.166866+00:00",
+      "lastCheckedAt": "2026-06-05T20:03:35.373873+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/costa-rica-esim",
-      "lastCheckedAt": "2026-06-04T20:13:19.166866+00:00",
+      "lastCheckedAt": "2026-06-05T20:03:35.373873+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-costa-rica/",
-      "lastCheckedAt": "2026-06-04T20:15:00.221390+00:00",
+      "lastCheckedAt": "2026-06-05T20:06:01.625173+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica (Movistar)"
@@ -135,7 +135,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-costa-rica/",
-      "lastCheckedAt": "2026-06-04T20:15:00.221390+00:00",
+      "lastCheckedAt": "2026-06-05T20:06:01.625173+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica (Movistar)"
@@ -155,7 +155,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-costa-rica/",
-      "lastCheckedAt": "2026-06-04T20:15:00.221390+00:00",
+      "lastCheckedAt": "2026-06-05T20:06:01.625173+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica (Movistar)"
@@ -175,7 +175,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-costa-rica/",
-      "lastCheckedAt": "2026-06-04T20:15:00.221390+00:00",
+      "lastCheckedAt": "2026-06-05T20:06:01.625173+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica (Movistar)"
@@ -195,7 +195,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-costa-rica/",
-      "lastCheckedAt": "2026-06-04T20:15:00.221390+00:00",
+      "lastCheckedAt": "2026-06-05T20:06:01.625173+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica (Movistar)"
@@ -215,7 +215,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-costa-rica/",
-      "lastCheckedAt": "2026-06-04T20:15:00.221390+00:00",
+      "lastCheckedAt": "2026-06-05T20:06:01.625173+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica (Movistar)"
@@ -235,11 +235,130 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-costa-rica/",
-      "lastCheckedAt": "2026-06-04T20:15:00.221390+00:00",
+      "lastCheckedAt": "2026-06-05T20:06:01.625173+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica (Movistar)"
       ],
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "CR",
+      "rawCoverageName": "Costa Rica",
+      "days": 10,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 35.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/costa-rica-eSIM",
+      "lastCheckedAt": "2026-06-05T20:07:16.168218+00:00",
+      "networkSpeed": "2GB/day at 4G/5G. 1.25 Mbps after 2GB",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "CR",
+      "rawCoverageName": "Costa Rica",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 23.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/costa-rica-eSIM",
+      "lastCheckedAt": "2026-06-05T20:07:16.168218+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "CR",
+      "rawCoverageName": "Costa Rica",
+      "days": 5,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 21.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/costa-rica-eSIM",
+      "lastCheckedAt": "2026-06-05T20:07:16.168218+00:00",
+      "networkSpeed": "2GB/day at 4G/5G. 1.25 Mbps after 2GB",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "CR",
+      "rawCoverageName": "Costa Rica",
+      "days": 30,
+      "dataGb": 20.0,
+      "isUnlimited": false,
+      "priceUsd": 35.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/costa-rica-eSIM",
+      "lastCheckedAt": "2026-06-05T20:07:16.168218+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "CR",
+      "rawCoverageName": "Costa Rica",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 29.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/costa-rica-eSIM",
+      "lastCheckedAt": "2026-06-05T20:07:16.168218+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "CR",
+      "rawCoverageName": "Costa Rica",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 8.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/costa-rica-eSIM",
+      "lastCheckedAt": "2026-06-05T20:07:16.168218+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "CR",
+      "rawCoverageName": "Costa Rica",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 16.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/costa-rica-eSIM",
+      "lastCheckedAt": "2026-06-05T20:07:16.168218+00:00",
+      "networkSpeed": "5G",
       "apn": null,
       "tethering": null
     },
@@ -255,7 +374,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -272,7 +391,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -289,7 +408,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -306,7 +425,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -323,7 +442,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -340,7 +459,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -357,7 +476,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-costa-rica?packageId=2998",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -374,7 +493,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-costa-rica?packageId=3696",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -391,7 +510,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-costa-rica?packageId=2997",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -408,7 +527,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-costa-rica?packageId=3697",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -425,7 +544,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3312",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -442,7 +561,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3311",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -459,7 +578,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3310",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -476,7 +595,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3313",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -493,7 +612,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3716",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -510,7 +629,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3717",
-      "lastCheckedAt": "2026-06-04T20:16:09.713268+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:40.595040+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -527,7 +646,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/costa-rica-data-plans/costa-rica-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-04T20:16:11.849443+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:42.854103+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -544,7 +663,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/costa-rica-data-plans/costa-rica-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-04T20:16:11.849443+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:42.854103+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -561,7 +680,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/costa-rica-data-plans/costa-rica-25gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-04T20:16:11.849443+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:42.854103+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -578,7 +697,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/costa-rica-data-plans/costa-rica-unlimited-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-04T20:16:11.849443+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:42.854103+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -595,7 +714,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/costa-rica-data-plans/costa-rica-unlimited-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-04T20:16:11.849443+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:42.854103+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -612,7 +731,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/costa-rica-data-plans/costa-rica-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-04T20:16:11.849443+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:42.854103+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -629,7 +748,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/costa-rica-data-plans/costa-rica-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-04T20:16:11.849443+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:42.854103+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -646,7 +765,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/costa-rica-data-plans/costa-rica-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-04T20:16:11.849443+00:00",
+      "lastCheckedAt": "2026-06-05T20:09:42.854103+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
