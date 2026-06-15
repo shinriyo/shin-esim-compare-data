@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/argentina-esim",
-      "lastCheckedAt": "2026-06-14T19:47:20.156916+00:00",
+      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/argentina-esim",
-      "lastCheckedAt": "2026-06-14T19:47:20.156916+00:00",
+      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/argentina-esim",
-      "lastCheckedAt": "2026-06-14T19:47:20.156916+00:00",
+      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/argentina-esim",
-      "lastCheckedAt": "2026-06-14T19:47:20.156916+00:00",
+      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/argentina-esim",
-      "lastCheckedAt": "2026-06-14T19:47:20.156916+00:00",
+      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/argentina-esim",
-      "lastCheckedAt": "2026-06-14T19:47:20.156916+00:00",
+      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/argentina-esim",
-      "lastCheckedAt": "2026-06-14T19:47:20.156916+00:00",
+      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -128,11 +128,11 @@
       "days": 1,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 9.9,
+      "priceUsd": 9.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-argentina/",
-      "lastCheckedAt": "2026-06-14T19:49:17.262061+00:00",
+      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica"
@@ -148,11 +148,11 @@
       "days": 3,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 29.7,
+      "priceUsd": 28.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-argentina/",
-      "lastCheckedAt": "2026-06-14T19:49:17.262061+00:00",
+      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica"
@@ -168,11 +168,11 @@
       "days": 5,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 49.5,
+      "priceUsd": 47.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-argentina/",
-      "lastCheckedAt": "2026-06-14T19:49:17.262061+00:00",
+      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica"
@@ -188,11 +188,11 @@
       "days": 7,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 69.3,
+      "priceUsd": 66.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-argentina/",
-      "lastCheckedAt": "2026-06-14T19:49:17.262061+00:00",
+      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica"
@@ -208,11 +208,11 @@
       "days": 10,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 99.0,
+      "priceUsd": 95.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-argentina/",
-      "lastCheckedAt": "2026-06-14T19:49:17.262061+00:00",
+      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica"
@@ -228,11 +228,11 @@
       "days": 15,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 148.5,
+      "priceUsd": 142.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-argentina/",
-      "lastCheckedAt": "2026-06-14T19:49:17.262061+00:00",
+      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica"
@@ -248,11 +248,11 @@
       "days": 30,
       "dataGb": null,
       "isUnlimited": true,
-      "priceUsd": 297.0,
+      "priceUsd": 285.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-argentina/",
-      "lastCheckedAt": "2026-06-14T19:49:17.262061+00:00",
+      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Telefonica"
@@ -272,7 +272,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -289,7 +289,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -306,7 +306,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -323,7 +323,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -340,7 +340,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -357,7 +357,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -374,7 +374,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -391,7 +391,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -408,7 +408,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -425,7 +425,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/argentina-eSIM",
-      "lastCheckedAt": "2026-06-14T19:50:26.573804+00:00",
+      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -442,7 +442,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/argentina-data-plans/argentina-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-14T19:54:23.813671+00:00",
+      "lastCheckedAt": "2026-06-15T21:20:59.127228+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -459,7 +459,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/argentina-data-plans/argentina-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-14T19:54:23.813671+00:00",
+      "lastCheckedAt": "2026-06-15T21:20:59.127228+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -476,7 +476,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/argentina-data-plans/argentina-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-14T19:54:23.813671+00:00",
+      "lastCheckedAt": "2026-06-15T21:20:59.127228+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -493,7 +493,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/argentina-data-plans/argentina-25gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-14T19:54:23.813671+00:00",
+      "lastCheckedAt": "2026-06-15T21:20:59.127228+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -510,7 +510,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/argentina-data-plans/argentina-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-14T19:54:23.813671+00:00",
+      "lastCheckedAt": "2026-06-15T21:20:59.127228+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -527,7 +527,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/argentina-data-plans/argentina-unlimited-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-14T19:54:23.813671+00:00",
+      "lastCheckedAt": "2026-06-15T21:20:59.127228+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -544,7 +544,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/argentina-data-plans/argentina-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-14T19:54:23.813671+00:00",
+      "lastCheckedAt": "2026-06-15T21:20:59.127228+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
