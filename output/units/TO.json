@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/tonga-esim",
-      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
+      "lastCheckedAt": "2026-06-16T21:12:17.660477+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/tonga-esim",
-      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
+      "lastCheckedAt": "2026-06-16T21:12:17.660477+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/tonga-esim",
-      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
+      "lastCheckedAt": "2026-06-16T21:12:17.660477+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/tonga-esim",
-      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
+      "lastCheckedAt": "2026-06-16T21:12:17.660477+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/tonga-esim",
-      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
+      "lastCheckedAt": "2026-06-16T21:12:17.660477+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/tonga-esim",
-      "lastCheckedAt": "2026-06-15T21:13:07.531856+00:00",
+      "lastCheckedAt": "2026-06-16T21:12:17.660477+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-tonga/",
-      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
+      "lastCheckedAt": "2026-06-16T21:14:38.728147+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Digicel"
@@ -135,7 +135,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-tonga/",
-      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
+      "lastCheckedAt": "2026-06-16T21:14:38.728147+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Digicel"
@@ -155,7 +155,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-tonga/",
-      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
+      "lastCheckedAt": "2026-06-16T21:14:38.728147+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Digicel"
@@ -175,7 +175,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-tonga/",
-      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
+      "lastCheckedAt": "2026-06-16T21:14:38.728147+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Digicel"
@@ -195,7 +195,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-tonga/",
-      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
+      "lastCheckedAt": "2026-06-16T21:14:38.728147+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Digicel"
@@ -215,7 +215,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-tonga/",
-      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
+      "lastCheckedAt": "2026-06-16T21:14:38.728147+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Digicel"
@@ -235,130 +235,11 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-tonga/",
-      "lastCheckedAt": "2026-06-15T21:15:39.178956+00:00",
+      "lastCheckedAt": "2026-06-16T21:14:38.728147+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Digicel"
       ],
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "TO",
-      "rawCoverageName": "Tonga",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 49.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/tonga-eSIM",
-      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "TO",
-      "rawCoverageName": "Tonga",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 19.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/tonga-eSIM",
-      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "TO",
-      "rawCoverageName": "Tonga",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 29.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/tonga-eSIM",
-      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "TO",
-      "rawCoverageName": "Tonga",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 55.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/tonga-eSIM",
-      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "TO",
-      "rawCoverageName": "Tonga",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 35.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/tonga-eSIM",
-      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "TO",
-      "rawCoverageName": "Tonga",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 9.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/tonga-eSIM",
-      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "TO",
-      "rawCoverageName": "Tonga",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 29.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/tonga-eSIM",
-      "lastCheckedAt": "2026-06-15T21:16:57.035996+00:00",
-      "networkSpeed": "4G",
       "apn": null,
       "tethering": null
     },
@@ -374,7 +255,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/tonga-data-plans/tonga-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-15T21:20:59.127228+00:00",
+      "lastCheckedAt": "2026-06-16T21:15:45.988176+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
