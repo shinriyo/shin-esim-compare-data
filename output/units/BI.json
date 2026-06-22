@@ -2,6 +2,40 @@
   "coverageCode": "BI",
   "plans": [
     {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "BI",
+      "rawCoverageName": "Burundi",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 19.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/burundi-eSIM",
+      "lastCheckedAt": "2026-06-22T21:01:18.354203+00:00",
+      "networkSpeed": "3G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "BI",
+      "rawCoverageName": "Burundi",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 45.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/burundi-eSIM",
+      "lastCheckedAt": "2026-06-22T21:01:18.354203+00:00",
+      "networkSpeed": "3G",
+      "apn": null,
+      "tethering": null
+    },
+    {
       "provider": "Ubigi",
       "coverageType": "unit",
       "coverageCode": "BI",
@@ -13,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/burundi-data-plans/burundi-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-21T19:57:37.591497+00:00",
+      "lastCheckedAt": "2026-06-22T21:03:15.033500+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -30,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/burundi-data-plans/burundi-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-21T19:57:37.591497+00:00",
+      "lastCheckedAt": "2026-06-22T21:03:15.033500+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
