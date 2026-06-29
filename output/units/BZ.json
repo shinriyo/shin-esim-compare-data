@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/belize-esim",
-      "lastCheckedAt": "2026-06-28T19:40:06.618998+00:00",
+      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/belize-esim",
-      "lastCheckedAt": "2026-06-28T19:40:06.618998+00:00",
+      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/belize-esim",
-      "lastCheckedAt": "2026-06-28T19:40:06.618998+00:00",
+      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/belize-esim",
-      "lastCheckedAt": "2026-06-28T19:40:06.618998+00:00",
+      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-belize/",
-      "lastCheckedAt": "2026-06-28T19:42:35.197264+00:00",
+      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "DigiCell"
@@ -101,7 +101,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-belize/",
-      "lastCheckedAt": "2026-06-28T19:42:35.197264+00:00",
+      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "DigiCell"
@@ -121,7 +121,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-belize/",
-      "lastCheckedAt": "2026-06-28T19:42:35.197264+00:00",
+      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "DigiCell"
@@ -141,7 +141,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-belize/",
-      "lastCheckedAt": "2026-06-28T19:42:35.197264+00:00",
+      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "DigiCell"
@@ -161,7 +161,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-belize/",
-      "lastCheckedAt": "2026-06-28T19:42:35.197264+00:00",
+      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "DigiCell"
@@ -181,7 +181,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-belize/",
-      "lastCheckedAt": "2026-06-28T19:42:35.197264+00:00",
+      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "DigiCell"
@@ -201,7 +201,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-belize/",
-      "lastCheckedAt": "2026-06-28T19:42:35.197264+00:00",
+      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "DigiCell"
@@ -214,31 +214,14 @@
       "coverageType": "unit",
       "coverageCode": "BZ",
       "rawCoverageName": "Belize",
-      "days": 30,
-      "dataGb": 10.0,
+      "days": 7,
+      "dataGb": 1.0,
       "isUnlimited": false,
-      "priceUsd": 95.0,
+      "priceUsd": 10.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/belize-eSIM",
-      "lastCheckedAt": "2026-06-28T19:44:10.282881+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "BZ",
-      "rawCoverageName": "Belize",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 29.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/belize-eSIM",
-      "lastCheckedAt": "2026-06-28T19:44:10.282881+00:00",
+      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -255,7 +238,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/belize-eSIM",
-      "lastCheckedAt": "2026-06-28T19:44:10.282881+00:00",
+      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -265,14 +248,31 @@
       "coverageType": "unit",
       "coverageCode": "BZ",
       "rawCoverageName": "Belize",
-      "days": 7,
-      "dataGb": 1.0,
+      "days": 30,
+      "dataGb": 10.0,
       "isUnlimited": false,
-      "priceUsd": 10.0,
+      "priceUsd": 95.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/belize-eSIM",
-      "lastCheckedAt": "2026-06-28T19:44:10.282881+00:00",
+      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "BZ",
+      "rawCoverageName": "Belize",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 29.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/belize-eSIM",
+      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -289,7 +289,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-belize?packageId=3635",
-      "lastCheckedAt": "2026-06-28T19:46:37.090748+00:00",
+      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -306,7 +306,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-belize?packageId=3634",
-      "lastCheckedAt": "2026-06-28T19:46:37.090748+00:00",
+      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -323,7 +323,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-belize?packageId=3276",
-      "lastCheckedAt": "2026-06-28T19:46:37.090748+00:00",
+      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -340,7 +340,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-belize?packageId=3636",
-      "lastCheckedAt": "2026-06-28T19:46:37.090748+00:00",
+      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -357,7 +357,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/belize-data-plans/belize-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-28T19:46:39.808183+00:00",
+      "lastCheckedAt": "2026-06-29T20:19:46.697194+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
