@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/seychelles-esim",
-      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
+      "lastCheckedAt": "2026-06-30T20:07:17.595322+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/seychelles-esim",
-      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
+      "lastCheckedAt": "2026-06-30T20:07:17.595322+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/seychelles-esim",
-      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
+      "lastCheckedAt": "2026-06-30T20:07:17.595322+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/seychelles-esim",
-      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
+      "lastCheckedAt": "2026-06-30T20:07:17.595322+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/seychelles-esim",
-      "lastCheckedAt": "2026-06-29T20:12:23.645657+00:00",
+      "lastCheckedAt": "2026-06-30T20:07:17.595322+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-seychelles/",
-      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
+      "lastCheckedAt": "2026-06-30T20:09:42.092433+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Seychelles"
@@ -118,7 +118,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-seychelles/",
-      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
+      "lastCheckedAt": "2026-06-30T20:09:42.092433+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Seychelles"
@@ -138,7 +138,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-seychelles/",
-      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
+      "lastCheckedAt": "2026-06-30T20:09:42.092433+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Seychelles"
@@ -158,7 +158,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-seychelles/",
-      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
+      "lastCheckedAt": "2026-06-30T20:09:42.092433+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Seychelles"
@@ -178,7 +178,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-seychelles/",
-      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
+      "lastCheckedAt": "2026-06-30T20:09:42.092433+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Seychelles"
@@ -198,7 +198,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-seychelles/",
-      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
+      "lastCheckedAt": "2026-06-30T20:09:42.092433+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Seychelles"
@@ -218,7 +218,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-seychelles/",
-      "lastCheckedAt": "2026-06-29T20:15:05.842866+00:00",
+      "lastCheckedAt": "2026-06-30T20:09:42.092433+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Seychelles"
@@ -238,7 +238,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
-      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
+      "lastCheckedAt": "2026-06-30T20:10:53.003156+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -249,13 +249,13 @@
       "coverageCode": "SC",
       "rawCoverageName": "Seychelles",
       "days": 30,
-      "dataGb": 3.0,
+      "dataGb": 10.0,
       "isUnlimited": false,
-      "priceUsd": 17.0,
+      "priceUsd": 35.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
-      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
+      "lastCheckedAt": "2026-06-30T20:10:53.003156+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -272,75 +272,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
-      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SC",
-      "rawCoverageName": "Seychelles",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 35.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
-      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SC",
-      "rawCoverageName": "Seychelles",
-      "days": 45,
-      "dataGb": 20.0,
-      "isUnlimited": false,
-      "priceUsd": 57.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
-      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SC",
-      "rawCoverageName": "Seychelles",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 35.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
-      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "SC",
-      "rawCoverageName": "Seychelles",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 17.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
-      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
+      "lastCheckedAt": "2026-06-30T20:10:53.003156+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -357,7 +289,75 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
-      "lastCheckedAt": "2026-06-29T20:16:32.728283+00:00",
+      "lastCheckedAt": "2026-06-30T20:10:53.003156+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "SC",
+      "rawCoverageName": "Seychelles",
+      "days": 45,
+      "dataGb": 20.0,
+      "isUnlimited": false,
+      "priceUsd": 57.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
+      "lastCheckedAt": "2026-06-30T20:10:53.003156+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "SC",
+      "rawCoverageName": "Seychelles",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 17.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
+      "lastCheckedAt": "2026-06-30T20:10:53.003156+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "SC",
+      "rawCoverageName": "Seychelles",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 35.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
+      "lastCheckedAt": "2026-06-30T20:10:53.003156+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "SC",
+      "rawCoverageName": "Seychelles",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 17.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/seychelles-eSIM",
+      "lastCheckedAt": "2026-06-30T20:10:53.003156+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -374,7 +374,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -391,7 +391,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -408,7 +408,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -425,7 +425,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -442,7 +442,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -459,7 +459,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -476,7 +476,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-seychelles?packageId=3523",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -493,7 +493,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-seychelles?packageId=3522",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -510,7 +510,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-seychelles?packageId=3521",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -527,7 +527,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-seychelles?packageId=3703",
-      "lastCheckedAt": "2026-06-29T20:19:43.956596+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:53.769212+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -544,7 +544,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/seychelles-data-plans/seychelles-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-29T20:19:46.697194+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:56.314823+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -561,7 +561,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/seychelles-data-plans/seychelles-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-29T20:19:46.697194+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:56.314823+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -578,7 +578,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/seychelles-data-plans/seychelles-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-29T20:19:46.697194+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:56.314823+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -595,7 +595,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/seychelles-data-plans/seychelles-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-06-29T20:19:46.697194+00:00",
+      "lastCheckedAt": "2026-06-30T20:12:56.314823+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
