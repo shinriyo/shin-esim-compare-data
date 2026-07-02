@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/kenya-esim",
-      "lastCheckedAt": "2026-07-01T20:04:19.196996+00:00",
+      "lastCheckedAt": "2026-07-02T19:42:20.060755+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/kenya-esim",
-      "lastCheckedAt": "2026-07-01T20:04:19.196996+00:00",
+      "lastCheckedAt": "2026-07-02T19:42:20.060755+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/kenya-esim",
-      "lastCheckedAt": "2026-07-01T20:04:19.196996+00:00",
+      "lastCheckedAt": "2026-07-02T19:42:20.060755+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/kenya-esim",
-      "lastCheckedAt": "2026-07-01T20:04:19.196996+00:00",
+      "lastCheckedAt": "2026-07-02T19:42:20.060755+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/kenya-esim",
-      "lastCheckedAt": "2026-07-01T20:04:19.196996+00:00",
+      "lastCheckedAt": "2026-07-02T19:42:20.060755+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-kenya/",
-      "lastCheckedAt": "2026-07-01T20:06:49.158317+00:00",
+      "lastCheckedAt": "2026-07-02T19:45:23.887771+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Kenya"
@@ -118,7 +118,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-kenya/",
-      "lastCheckedAt": "2026-07-01T20:06:49.158317+00:00",
+      "lastCheckedAt": "2026-07-02T19:45:23.887771+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Kenya"
@@ -138,7 +138,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-kenya/",
-      "lastCheckedAt": "2026-07-01T20:06:49.158317+00:00",
+      "lastCheckedAt": "2026-07-02T19:45:23.887771+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Kenya"
@@ -158,7 +158,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-kenya/",
-      "lastCheckedAt": "2026-07-01T20:06:49.158317+00:00",
+      "lastCheckedAt": "2026-07-02T19:45:23.887771+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Kenya"
@@ -178,7 +178,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-kenya/",
-      "lastCheckedAt": "2026-07-01T20:06:49.158317+00:00",
+      "lastCheckedAt": "2026-07-02T19:45:23.887771+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Kenya"
@@ -198,7 +198,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-kenya/",
-      "lastCheckedAt": "2026-07-01T20:06:49.158317+00:00",
+      "lastCheckedAt": "2026-07-02T19:45:23.887771+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Kenya"
@@ -218,11 +218,62 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-kenya/",
-      "lastCheckedAt": "2026-07-01T20:06:49.158317+00:00",
+      "lastCheckedAt": "2026-07-02T19:45:23.887771+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Airtel Kenya"
       ],
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "KE",
+      "rawCoverageName": "Kenya",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 17.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
+      "lastCheckedAt": "2026-07-02T19:46:56.675032+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "KE",
+      "rawCoverageName": "Kenya",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 17.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
+      "lastCheckedAt": "2026-07-02T19:46:56.675032+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "KE",
+      "rawCoverageName": "Kenya",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 23.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
+      "lastCheckedAt": "2026-07-02T19:46:56.675032+00:00",
+      "networkSpeed": "4G",
       "apn": null,
       "tethering": null
     },
@@ -238,7 +289,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
-      "lastCheckedAt": "2026-07-01T20:07:56.262024+00:00",
+      "lastCheckedAt": "2026-07-02T19:46:56.675032+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -255,7 +306,41 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
-      "lastCheckedAt": "2026-07-01T20:07:56.262024+00:00",
+      "lastCheckedAt": "2026-07-02T19:46:56.675032+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "KE",
+      "rawCoverageName": "Kenya",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 37.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
+      "lastCheckedAt": "2026-07-02T19:46:56.675032+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "KE",
+      "rawCoverageName": "Kenya",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 23.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
+      "lastCheckedAt": "2026-07-02T19:46:56.675032+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -272,92 +357,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
-      "lastCheckedAt": "2026-07-01T20:07:56.262024+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "KE",
-      "rawCoverageName": "Kenya",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 17.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
-      "lastCheckedAt": "2026-07-01T20:07:56.262024+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "KE",
-      "rawCoverageName": "Kenya",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 17.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
-      "lastCheckedAt": "2026-07-01T20:07:56.262024+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "KE",
-      "rawCoverageName": "Kenya",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 23.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
-      "lastCheckedAt": "2026-07-01T20:07:56.262024+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "KE",
-      "rawCoverageName": "Kenya",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 23.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
-      "lastCheckedAt": "2026-07-01T20:07:56.262024+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "KE",
-      "rawCoverageName": "Kenya",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 37.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/kenya-eSIM",
-      "lastCheckedAt": "2026-07-01T20:07:56.262024+00:00",
+      "lastCheckedAt": "2026-07-02T19:46:56.675032+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -374,7 +374,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -391,7 +391,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -408,7 +408,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -425,7 +425,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -442,7 +442,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -459,7 +459,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -476,7 +476,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-kenya?packageId=3581",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -493,7 +493,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-kenya?packageId=3580",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -510,7 +510,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-kenya?packageId=3564",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -527,7 +527,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-kenya?packageId=3582",
-      "lastCheckedAt": "2026-07-01T20:09:57.591733+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:30.133236+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -544,7 +544,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/kenya-data-plans/kenya-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-01T20:10:00.204847+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:33.324580+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -561,7 +561,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/kenya-data-plans/kenya-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-01T20:10:00.204847+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:33.324580+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -578,7 +578,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/kenya-data-plans/kenya-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-01T20:10:00.204847+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:33.324580+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -595,7 +595,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/kenya-data-plans/kenya-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-01T20:10:00.204847+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:33.324580+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -612,7 +612,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/kenya-data-plans/kenya-unlimited-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-01T20:10:00.204847+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:33.324580+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -629,7 +629,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/kenya-data-plans/kenya-unlimited-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-01T20:10:00.204847+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:33.324580+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -646,7 +646,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/kenya-data-plans/kenya-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-01T20:10:00.204847+00:00",
+      "lastCheckedAt": "2026-07-02T19:49:33.324580+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
