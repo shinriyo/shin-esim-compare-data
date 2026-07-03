@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T19:49:57.866970179+00:00",
+  "generatedAt": "2026-07-03T19:45:10.565556895+00:00",
   "lintWarnings": 24,
   "planCounts": {
     "regions": 188,
-    "units": 12026
+    "units": 12014
   },
   "providers": [
     "Airalo",
