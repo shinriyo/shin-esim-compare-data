@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/andorra-esim",
-      "lastCheckedAt": "2026-07-03T19:39:33.492576+00:00",
+      "lastCheckedAt": "2026-07-04T19:24:09.988641+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/andorra-esim",
-      "lastCheckedAt": "2026-07-03T19:39:33.492576+00:00",
+      "lastCheckedAt": "2026-07-04T19:24:09.988641+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/andorra-esim",
-      "lastCheckedAt": "2026-07-03T19:39:33.492576+00:00",
+      "lastCheckedAt": "2026-07-04T19:24:09.988641+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/andorra-esim",
-      "lastCheckedAt": "2026-07-03T19:39:33.492576+00:00",
+      "lastCheckedAt": "2026-07-04T19:24:09.988641+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/andorra-esim",
-      "lastCheckedAt": "2026-07-03T19:39:33.492576+00:00",
+      "lastCheckedAt": "2026-07-04T19:24:09.988641+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/andorra-esim",
-      "lastCheckedAt": "2026-07-03T19:39:33.492576+00:00",
+      "lastCheckedAt": "2026-07-04T19:24:09.988641+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/andorra-esim",
-      "lastCheckedAt": "2026-07-03T19:39:33.492576+00:00",
+      "lastCheckedAt": "2026-07-04T19:24:09.988641+00:00",
       "networkSpeed": "LTE",
       "apn": "wbdata",
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-andorra/",
-      "lastCheckedAt": "2026-07-03T19:41:50.451386+00:00",
+      "lastCheckedAt": "2026-07-04T19:27:00.206887+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Andorra Telecom"
@@ -152,7 +152,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-andorra/",
-      "lastCheckedAt": "2026-07-03T19:41:50.451386+00:00",
+      "lastCheckedAt": "2026-07-04T19:27:00.206887+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Andorra Telecom"
@@ -172,7 +172,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-andorra/",
-      "lastCheckedAt": "2026-07-03T19:41:50.451386+00:00",
+      "lastCheckedAt": "2026-07-04T19:27:00.206887+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Andorra Telecom"
@@ -192,7 +192,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-andorra/",
-      "lastCheckedAt": "2026-07-03T19:41:50.451386+00:00",
+      "lastCheckedAt": "2026-07-04T19:27:00.206887+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Andorra Telecom"
@@ -212,7 +212,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-andorra/",
-      "lastCheckedAt": "2026-07-03T19:41:50.451386+00:00",
+      "lastCheckedAt": "2026-07-04T19:27:00.206887+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Andorra Telecom"
@@ -232,7 +232,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-andorra/",
-      "lastCheckedAt": "2026-07-03T19:41:50.451386+00:00",
+      "lastCheckedAt": "2026-07-04T19:27:00.206887+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Andorra Telecom"
@@ -252,11 +252,28 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-andorra/",
-      "lastCheckedAt": "2026-07-03T19:41:50.451386+00:00",
+      "lastCheckedAt": "2026-07-04T19:27:00.206887+00:00",
       "networkSpeed": "4G LTE/5G",
       "networkOperators": [
         "Andorra Telecom"
       ],
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "AD",
+      "rawCoverageName": "Andorra",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 15.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
+      "networkSpeed": "5G",
       "apn": null,
       "tethering": null
     },
@@ -272,41 +289,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
-      "networkSpeed": "5G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "AD",
-      "rawCoverageName": "Andorra",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 15.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
-      "networkSpeed": "5G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "AD",
-      "rawCoverageName": "Andorra",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 25.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -323,7 +306,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -334,30 +317,13 @@
       "coverageCode": "AD",
       "rawCoverageName": "Andorra",
       "days": 30,
-      "dataGb": 20.0,
+      "dataGb": 3.0,
       "isUnlimited": false,
-      "priceUsd": 49.0,
+      "priceUsd": 15.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
-      "networkSpeed": "5G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "AD",
-      "rawCoverageName": "Andorra",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 7.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -374,7 +340,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -391,7 +357,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "AD",
+      "rawCoverageName": "Andorra",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 7.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -404,11 +387,28 @@
       "days": 30,
       "dataGb": 5.0,
       "isUnlimited": false,
-      "priceUsd": 15.0,
+      "priceUsd": 25.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
-      "lastCheckedAt": "2026-07-03T19:42:56.238334+00:00",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "AD",
+      "rawCoverageName": "Andorra",
+      "days": 30,
+      "dataGb": 20.0,
+      "isUnlimited": false,
+      "priceUsd": 49.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/andorra-eSIM",
+      "lastCheckedAt": "2026-07-04T19:28:31.371883+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -425,7 +425,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-andorra?packageId=3630",
-      "lastCheckedAt": "2026-07-03T19:44:42.740243+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:17.461321+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -442,7 +442,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-andorra?packageId=3629",
-      "lastCheckedAt": "2026-07-03T19:44:42.740243+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:17.461321+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -459,7 +459,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-andorra?packageId=3281",
-      "lastCheckedAt": "2026-07-03T19:44:42.740243+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:17.461321+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -476,7 +476,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-andorra?packageId=3631",
-      "lastCheckedAt": "2026-07-03T19:44:42.740243+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:17.461321+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -493,7 +493,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/andorra-data-plans/andorra-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-03T19:44:45.387456+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:20.425140+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -510,7 +510,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/andorra-data-plans/andorra-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-03T19:44:45.387456+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:20.425140+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -527,7 +527,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/andorra-data-plans/andorra-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-03T19:44:45.387456+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:20.425140+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -544,7 +544,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/andorra-data-plans/andorra-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-03T19:44:45.387456+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:20.425140+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -561,7 +561,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/andorra-data-plans/andorra-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-03T19:44:45.387456+00:00",
+      "lastCheckedAt": "2026-07-04T19:31:20.425140+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
