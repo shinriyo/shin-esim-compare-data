@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/malawi-esim",
-      "lastCheckedAt": "2026-07-08T19:44:36.477536+00:00",
+      "lastCheckedAt": "2026-07-09T19:56:08.136002+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/malawi-esim",
-      "lastCheckedAt": "2026-07-08T19:44:36.477536+00:00",
+      "lastCheckedAt": "2026-07-09T19:56:08.136002+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/malawi-esim",
-      "lastCheckedAt": "2026-07-08T19:44:36.477536+00:00",
+      "lastCheckedAt": "2026-07-09T19:56:08.136002+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/malawi-esim",
-      "lastCheckedAt": "2026-07-08T19:44:36.477536+00:00",
+      "lastCheckedAt": "2026-07-09T19:56:08.136002+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/malawi-esim",
-      "lastCheckedAt": "2026-07-08T19:44:36.477536+00:00",
+      "lastCheckedAt": "2026-07-09T19:56:08.136002+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -98,8 +98,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-malawi/",
-      "lastCheckedAt": "2026-07-08T19:47:00.249235+00:00",
-      "networkSpeed": "4G LTE/5G",
+      "lastCheckedAt": "2026-07-09T19:59:03.563674+00:00",
+      "networkSpeed": "3G/4G/5G",
       "networkOperators": [
         "Airtel Malawi"
       ],
@@ -118,8 +118,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-malawi/",
-      "lastCheckedAt": "2026-07-08T19:47:00.249235+00:00",
-      "networkSpeed": "4G LTE/5G",
+      "lastCheckedAt": "2026-07-09T19:59:03.563674+00:00",
+      "networkSpeed": "3G/4G/5G",
       "networkOperators": [
         "Airtel Malawi"
       ],
@@ -138,8 +138,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-malawi/",
-      "lastCheckedAt": "2026-07-08T19:47:00.249235+00:00",
-      "networkSpeed": "4G LTE/5G",
+      "lastCheckedAt": "2026-07-09T19:59:03.563674+00:00",
+      "networkSpeed": "3G/4G/5G",
       "networkOperators": [
         "Airtel Malawi"
       ],
@@ -158,8 +158,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-malawi/",
-      "lastCheckedAt": "2026-07-08T19:47:00.249235+00:00",
-      "networkSpeed": "4G LTE/5G",
+      "lastCheckedAt": "2026-07-09T19:59:03.563674+00:00",
+      "networkSpeed": "3G/4G/5G",
       "networkOperators": [
         "Airtel Malawi"
       ],
@@ -178,8 +178,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-malawi/",
-      "lastCheckedAt": "2026-07-08T19:47:00.249235+00:00",
-      "networkSpeed": "4G LTE/5G",
+      "lastCheckedAt": "2026-07-09T19:59:03.563674+00:00",
+      "networkSpeed": "3G/4G/5G",
       "networkOperators": [
         "Airtel Malawi"
       ],
@@ -198,8 +198,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-malawi/",
-      "lastCheckedAt": "2026-07-08T19:47:00.249235+00:00",
-      "networkSpeed": "4G LTE/5G",
+      "lastCheckedAt": "2026-07-09T19:59:03.563674+00:00",
+      "networkSpeed": "3G/4G/5G",
       "networkOperators": [
         "Airtel Malawi"
       ],
@@ -218,8 +218,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.holafly.com/esim-malawi/",
-      "lastCheckedAt": "2026-07-08T19:47:00.249235+00:00",
-      "networkSpeed": "4G LTE/5G",
+      "lastCheckedAt": "2026-07-09T19:59:03.563674+00:00",
+      "networkSpeed": "3G/4G/5G",
       "networkOperators": [
         "Airtel Malawi"
       ],
@@ -232,13 +232,13 @@
       "coverageCode": "MW",
       "rawCoverageName": "Malawi",
       "days": 30,
-      "dataGb": 3.0,
+      "dataGb": 5.0,
       "isUnlimited": false,
-      "priceUsd": 24.0,
+      "priceUsd": 37.5,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
-      "lastCheckedAt": "2026-07-08T19:48:20.092532+00:00",
+      "lastCheckedAt": "2026-07-09T20:00:31.350559+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -255,7 +255,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
-      "lastCheckedAt": "2026-07-08T19:48:20.092532+00:00",
+      "lastCheckedAt": "2026-07-09T20:00:31.350559+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -272,24 +272,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
-      "lastCheckedAt": "2026-07-08T19:48:20.092532+00:00",
-      "networkSpeed": "LTE",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "MW",
-      "rawCoverageName": "Malawi",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 37.5,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
-      "lastCheckedAt": "2026-07-08T19:48:20.092532+00:00",
+      "lastCheckedAt": "2026-07-09T20:00:31.350559+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -306,24 +289,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
-      "lastCheckedAt": "2026-07-08T19:48:20.092532+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "MW",
-      "rawCoverageName": "Malawi",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 70.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
-      "lastCheckedAt": "2026-07-08T19:48:20.092532+00:00",
+      "lastCheckedAt": "2026-07-09T20:00:31.350559+00:00",
       "networkSpeed": "LTE",
       "apn": null,
       "tethering": null
@@ -340,7 +306,41 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
-      "lastCheckedAt": "2026-07-08T19:48:20.092532+00:00",
+      "lastCheckedAt": "2026-07-09T20:00:31.350559+00:00",
+      "networkSpeed": "LTE",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "MW",
+      "rawCoverageName": "Malawi",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 70.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
+      "lastCheckedAt": "2026-07-09T20:00:31.350559+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "MW",
+      "rawCoverageName": "Malawi",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 24.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/malawi-eSIM",
+      "lastCheckedAt": "2026-07-09T20:00:31.350559+00:00",
       "networkSpeed": "LTE",
       "apn": null,
       "tethering": null
@@ -357,7 +357,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-07-08T19:50:21.771315+00:00",
+      "lastCheckedAt": "2026-07-09T20:02:55.417018+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -374,7 +374,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-07-08T19:50:21.771315+00:00",
+      "lastCheckedAt": "2026-07-09T20:02:55.417018+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -391,7 +391,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-07-08T19:50:21.771315+00:00",
+      "lastCheckedAt": "2026-07-09T20:02:55.417018+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -408,7 +408,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-07-08T19:50:21.771315+00:00",
+      "lastCheckedAt": "2026-07-09T20:02:55.417018+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -425,7 +425,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-07-08T19:50:21.771315+00:00",
+      "lastCheckedAt": "2026-07-09T20:02:55.417018+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -442,7 +442,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-07-08T19:50:21.771315+00:00",
+      "lastCheckedAt": "2026-07-09T20:02:55.417018+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -459,7 +459,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/malawi-data-plans/malawi-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-08T19:50:25.002380+00:00",
+      "lastCheckedAt": "2026-07-09T20:02:59.356261+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -476,7 +476,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/malawi-data-plans/malawi-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-08T19:50:25.002380+00:00",
+      "lastCheckedAt": "2026-07-09T20:02:59.356261+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
