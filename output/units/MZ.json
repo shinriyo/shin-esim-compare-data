@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mozambique-esim",
-      "lastCheckedAt": "2026-07-12T19:14:59.581686+00:00",
+      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mozambique-esim",
-      "lastCheckedAt": "2026-07-12T19:14:59.581686+00:00",
+      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mozambique-esim",
-      "lastCheckedAt": "2026-07-12T19:14:59.581686+00:00",
+      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mozambique-esim",
-      "lastCheckedAt": "2026-07-12T19:14:59.581686+00:00",
+      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mozambique-esim",
-      "lastCheckedAt": "2026-07-12T19:14:59.581686+00:00",
+      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -98,24 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/mozambique-eSIM",
-      "lastCheckedAt": "2026-07-12T19:18:21.339805+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "MZ",
-      "rawCoverageName": "Mozambique",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 7.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/mozambique-eSIM",
-      "lastCheckedAt": "2026-07-12T19:18:21.339805+00:00",
+      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -132,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/mozambique-eSIM",
-      "lastCheckedAt": "2026-07-12T19:18:21.339805+00:00",
+      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -149,7 +132,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/mozambique-eSIM",
-      "lastCheckedAt": "2026-07-12T19:18:21.339805+00:00",
+      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "MZ",
+      "rawCoverageName": "Mozambique",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 7.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/mozambique-eSIM",
+      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-africa-20-countries?packageId=2459",
-      "lastCheckedAt": "2026-07-12T19:20:17.217429+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-africa-20-countries?packageId=2458",
-      "lastCheckedAt": "2026-07-12T19:20:17.217429+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -200,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-africa-20-countries?packageId=1966",
-      "lastCheckedAt": "2026-07-12T19:20:17.217429+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -217,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-africa-20-countries?packageId=2460",
-      "lastCheckedAt": "2026-07-12T19:20:17.217429+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -234,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-mozambique?packageId=3547",
-      "lastCheckedAt": "2026-07-12T19:20:17.217429+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -251,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-mozambique?packageId=3546",
-      "lastCheckedAt": "2026-07-12T19:20:17.217429+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -268,7 +268,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-mozambique?packageId=3273",
-      "lastCheckedAt": "2026-07-12T19:20:17.217429+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -285,7 +285,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-mozambique?packageId=3548",
-      "lastCheckedAt": "2026-07-12T19:20:17.217429+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -302,7 +302,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/mozambique-data-plans/mozambique-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-12T19:20:20.266950+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -319,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/mozambique-data-plans/mozambique-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-12T19:20:20.266950+00:00",
+      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
