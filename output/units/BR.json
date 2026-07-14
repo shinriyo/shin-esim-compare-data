@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/brazil-esim",
-      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
+      "lastCheckedAt": "2026-07-14T19:36:28.055569+00:00",
       "networkSpeed": "5G",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/brazil-esim",
-      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
+      "lastCheckedAt": "2026-07-14T19:36:28.055569+00:00",
       "networkSpeed": "5G",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/brazil-esim",
-      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
+      "lastCheckedAt": "2026-07-14T19:36:28.055569+00:00",
       "networkSpeed": "5G",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/brazil-esim",
-      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
+      "lastCheckedAt": "2026-07-14T19:36:28.055569+00:00",
       "networkSpeed": "5G",
       "apn": "wbdata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/brazil-esim",
-      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
+      "lastCheckedAt": "2026-07-14T19:36:28.055569+00:00",
       "networkSpeed": "5G",
       "apn": "wbdata",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/brazil-esim",
-      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
+      "lastCheckedAt": "2026-07-14T19:36:28.055569+00:00",
       "networkSpeed": "5G",
       "apn": "wbdata",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/brazil-esim",
-      "lastCheckedAt": "2026-07-13T19:38:51.328472+00:00",
+      "lastCheckedAt": "2026-07-14T19:36:28.055569+00:00",
       "networkSpeed": "5G",
       "apn": "wbdata",
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-brazil",
-      "lastCheckedAt": "2026-07-13T19:40:52.807909+00:00",
+      "lastCheckedAt": "2026-07-14T19:38:35.177294+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-brazil",
-      "lastCheckedAt": "2026-07-13T19:40:52.807909+00:00",
+      "lastCheckedAt": "2026-07-14T19:38:35.177294+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -166,148 +166,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-brazil",
-      "lastCheckedAt": "2026-07-13T19:40:52.807909+00:00",
+      "lastCheckedAt": "2026-07-14T19:38:35.177294+00:00",
       "networkSpeed": "5G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Holafly",
-      "coverageType": "unit",
-      "coverageCode": "BR",
-      "rawCoverageName": "Brazil",
-      "days": 1,
-      "dataGb": null,
-      "isUnlimited": true,
-      "priceUsd": 5.9,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://esim.holafly.com/esim-brazil/",
-      "lastCheckedAt": "2026-07-13T19:41:04.168263+00:00",
-      "networkSpeed": "3G/4G/5G",
-      "networkOperators": [
-        "VIVO"
-      ],
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Holafly",
-      "coverageType": "unit",
-      "coverageCode": "BR",
-      "rawCoverageName": "Brazil",
-      "days": 3,
-      "dataGb": null,
-      "isUnlimited": true,
-      "priceUsd": 17.7,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://esim.holafly.com/esim-brazil/",
-      "lastCheckedAt": "2026-07-13T19:41:04.168263+00:00",
-      "networkSpeed": "3G/4G/5G",
-      "networkOperators": [
-        "VIVO"
-      ],
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Holafly",
-      "coverageType": "unit",
-      "coverageCode": "BR",
-      "rawCoverageName": "Brazil",
-      "days": 5,
-      "dataGb": null,
-      "isUnlimited": true,
-      "priceUsd": 29.5,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://esim.holafly.com/esim-brazil/",
-      "lastCheckedAt": "2026-07-13T19:41:04.168263+00:00",
-      "networkSpeed": "3G/4G/5G",
-      "networkOperators": [
-        "VIVO"
-      ],
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Holafly",
-      "coverageType": "unit",
-      "coverageCode": "BR",
-      "rawCoverageName": "Brazil",
-      "days": 7,
-      "dataGb": null,
-      "isUnlimited": true,
-      "priceUsd": 41.3,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://esim.holafly.com/esim-brazil/",
-      "lastCheckedAt": "2026-07-13T19:41:04.168263+00:00",
-      "networkSpeed": "3G/4G/5G",
-      "networkOperators": [
-        "VIVO"
-      ],
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Holafly",
-      "coverageType": "unit",
-      "coverageCode": "BR",
-      "rawCoverageName": "Brazil",
-      "days": 10,
-      "dataGb": null,
-      "isUnlimited": true,
-      "priceUsd": 59.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://esim.holafly.com/esim-brazil/",
-      "lastCheckedAt": "2026-07-13T19:41:04.168263+00:00",
-      "networkSpeed": "3G/4G/5G",
-      "networkOperators": [
-        "VIVO"
-      ],
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Holafly",
-      "coverageType": "unit",
-      "coverageCode": "BR",
-      "rawCoverageName": "Brazil",
-      "days": 15,
-      "dataGb": null,
-      "isUnlimited": true,
-      "priceUsd": 88.5,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://esim.holafly.com/esim-brazil/",
-      "lastCheckedAt": "2026-07-13T19:41:04.168263+00:00",
-      "networkSpeed": "3G/4G/5G",
-      "networkOperators": [
-        "VIVO"
-      ],
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Holafly",
-      "coverageType": "unit",
-      "coverageCode": "BR",
-      "rawCoverageName": "Brazil",
-      "days": 30,
-      "dataGb": null,
-      "isUnlimited": true,
-      "priceUsd": 177.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://esim.holafly.com/esim-brazil/",
-      "lastCheckedAt": "2026-07-13T19:41:04.168263+00:00",
-      "networkSpeed": "3G/4G/5G",
-      "networkOperators": [
-        "VIVO"
-      ],
       "apn": null,
       "tethering": null
     },
@@ -323,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -340,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -357,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -374,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -391,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -408,7 +268,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -425,7 +285,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "2GB/day at 4G/5G. 1 Mbps after 2GB",
       "apn": null,
       "tethering": null
@@ -442,7 +302,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -459,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -476,7 +336,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -493,7 +353,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "2GB/day at 4G/5G. 1 Mbps after 2GB",
       "apn": null,
       "tethering": null
@@ -510,7 +370,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/brazil-eSIM",
-      "lastCheckedAt": "2026-07-13T19:42:24.068351+00:00",
+      "lastCheckedAt": "2026-07-14T19:40:00.170849+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -527,7 +387,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-15-countries?packageId=2462",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -544,7 +404,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-15-countries?packageId=2461",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -561,7 +421,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-15-countries?packageId=1954",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -578,7 +438,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-15-countries?packageId=2463",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -595,7 +455,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-15-countries?packageId=3714",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -612,7 +472,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-south-america-15-countries?packageId=3715",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -629,7 +489,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-brazil?packageId=2972",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -646,7 +506,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-brazil?packageId=3388",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -663,7 +523,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-brazil?packageId=2971",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -680,7 +540,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-brazil?packageId=3389",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -697,7 +557,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-brazil?packageId=3390",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -714,7 +574,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-brazil?packageId=3776",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -731,7 +591,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -748,7 +608,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -765,7 +625,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -782,7 +642,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -799,7 +659,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -816,7 +676,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -833,7 +693,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3312",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -850,7 +710,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3311",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -867,7 +727,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3310",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -884,7 +744,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3313",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -901,7 +761,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3716",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -918,7 +778,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3717",
-      "lastCheckedAt": "2026-07-13T19:44:30.167366+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:29.097579+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -935,7 +795,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -952,7 +812,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -969,7 +829,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -986,7 +846,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-25gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -1003,7 +863,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -1020,7 +880,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-500mb-2-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -1037,7 +897,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-unlimited-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -1054,7 +914,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-unlimited-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -1071,7 +931,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/brazil-data-plans/brazil-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-13T19:44:33.135507+00:00",
+      "lastCheckedAt": "2026-07-14T19:42:31.960150+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
