@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": "annatel",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": "annatel",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": "annatel",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": "annatel",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": "annatel",
       "tethering": null
@@ -200,43 +200,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/israel-esim",
-      "lastCheckedAt": "2026-07-16T19:22:44.418015+00:00",
+      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
       "networkSpeed": "5G",
       "apn": "annatel",
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "IL",
-      "rawCoverageName": "Israel",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 15.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
-      "networkSpeed": "LTE/4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "IL",
-      "rawCoverageName": "Israel",
-      "days": 30,
-      "dataGb": 20.0,
-      "isUnlimited": false,
-      "priceUsd": 35.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
-      "networkSpeed": "LTE/4G",
-      "apn": null,
       "tethering": null
     },
     {
@@ -251,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
+      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -268,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
+      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -285,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
+      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -302,42 +268,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
+      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
       "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "IL",
-      "rawCoverageName": "Israel",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 12.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
-      "networkSpeed": "LTE/4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "IL",
-      "rawCoverageName": "Israel",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 22.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
-      "networkSpeed": "LTE/4G",
       "apn": null,
       "tethering": null
     },
@@ -353,7 +285,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
+      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -370,7 +302,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/israel-eSIM",
-      "lastCheckedAt": "2026-07-16T19:25:45.915173+00:00",
+      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -387,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2719",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -404,7 +336,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=3244",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -421,7 +353,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=3418",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -438,7 +370,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2272",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -455,7 +387,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2256",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -472,7 +404,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=1560",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -489,7 +421,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=1747",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -506,7 +438,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2680",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -523,7 +455,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2697",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -540,7 +472,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=3297",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -557,7 +489,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=3296",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -574,7 +506,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-israel?packageId=3250",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -591,7 +523,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-israel?packageId=3249",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -608,7 +540,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-israel?packageId=2801",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -625,7 +557,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-israel?packageId=2931",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -642,7 +574,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-israel?packageId=1956",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -659,7 +591,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-israel?packageId=2870",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -676,7 +608,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-israel?packageId=2871",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -693,7 +625,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -710,7 +642,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -727,7 +659,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -744,7 +676,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -761,7 +693,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -778,7 +710,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-07-16T19:27:46.142641+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -795,7 +727,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/israel-data-plans/israel-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-16T19:27:48.007446+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -812,7 +744,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/israel-data-plans/israel-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-16T19:27:48.007446+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -829,7 +761,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/israel-data-plans/israel-3gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-16T19:27:48.007446+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -846,7 +778,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/israel-data-plans/israel-50gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-16T19:27:48.007446+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -863,7 +795,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/israel-data-plans/israel-unlimited-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-16T19:27:48.007446+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -880,7 +812,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/israel-data-plans/israel-unlimited-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-16T19:27:48.007446+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -897,7 +829,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/israel-data-plans/israel-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-16T19:27:48.007446+00:00",
+      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
