@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -200,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bolivia-esim",
-      "lastCheckedAt": "2026-07-17T19:20:12.562111+00:00",
+      "lastCheckedAt": "2026-07-18T19:13:38.060227+00:00",
       "networkSpeed": "LTE/3G",
       "apn": "globaldata",
       "tethering": null
@@ -211,13 +211,13 @@
       "coverageCode": "BO",
       "rawCoverageName": "Bolivia",
       "days": 30,
-      "dataGb": 5.0,
+      "dataGb": 3.0,
       "isUnlimited": false,
-      "priceUsd": 29.0,
+      "priceUsd": 19.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bolivia-eSIM",
-      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
+      "lastCheckedAt": "2026-07-18T19:17:51.827470+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -234,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bolivia-eSIM",
-      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
+      "lastCheckedAt": "2026-07-18T19:17:51.827470+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -251,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bolivia-eSIM",
-      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
+      "lastCheckedAt": "2026-07-18T19:17:51.827470+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -262,13 +262,13 @@
       "coverageCode": "BO",
       "rawCoverageName": "Bolivia",
       "days": 30,
-      "dataGb": 3.0,
+      "dataGb": 5.0,
       "isUnlimited": false,
-      "priceUsd": 19.0,
+      "priceUsd": 29.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bolivia-eSIM",
-      "lastCheckedAt": "2026-07-17T19:23:20.120269+00:00",
+      "lastCheckedAt": "2026-07-18T19:17:51.827470+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -285,7 +285,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -302,7 +302,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -319,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -336,7 +336,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -353,7 +353,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -370,7 +370,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -387,7 +387,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3312",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -404,7 +404,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3311",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -421,7 +421,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3310",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -438,7 +438,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3313",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -455,7 +455,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3716",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -472,7 +472,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-latin-america-40-regions?packageId=3717",
-      "lastCheckedAt": "2026-07-17T19:25:16.336821+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:44.314816+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -489,7 +489,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:46.731104+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -506,7 +506,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:46.731104+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -523,7 +523,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:46.731104+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -540,7 +540,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:46.731104+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -557,7 +557,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-unlimited-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:46.731104+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -574,7 +574,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bolivia-data-plans/bolivia-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-17T19:25:19.181002+00:00",
+      "lastCheckedAt": "2026-07-18T19:20:46.731104+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
