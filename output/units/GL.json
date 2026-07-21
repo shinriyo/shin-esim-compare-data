@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/greenland-esim",
-      "lastCheckedAt": "2026-07-20T19:50:26.848823+00:00",
+      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/greenland-esim",
-      "lastCheckedAt": "2026-07-20T19:50:26.848823+00:00",
+      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/greenland-esim",
-      "lastCheckedAt": "2026-07-20T19:50:26.848823+00:00",
+      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/greenland-esim",
-      "lastCheckedAt": "2026-07-20T19:50:26.848823+00:00",
+      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/greenland-eSIM",
-      "lastCheckedAt": "2026-07-20T19:53:49.901707+00:00",
+      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -98,24 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/greenland-eSIM",
-      "lastCheckedAt": "2026-07-20T19:53:49.901707+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "GL",
-      "rawCoverageName": "Greenland",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 25.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/greenland-eSIM",
-      "lastCheckedAt": "2026-07-20T19:53:49.901707+00:00",
+      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -132,7 +115,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/greenland-eSIM",
-      "lastCheckedAt": "2026-07-20T19:53:49.901707+00:00",
+      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "GL",
+      "rawCoverageName": "Greenland",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 25.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/greenland-eSIM",
+      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/greenland-data-plans/greenland-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-20T19:56:10.221410+00:00",
+      "lastCheckedAt": "2026-07-21T19:47:23.589553+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/greenland-data-plans/greenland-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-20T19:56:10.221410+00:00",
+      "lastCheckedAt": "2026-07-21T19:47:23.589553+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/greenland-data-plans/greenland-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-20T19:56:10.221410+00:00",
+      "lastCheckedAt": "2026-07-21T19:47:23.589553+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
