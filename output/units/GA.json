@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -98,9 +98,26 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "GA",
+      "rawCoverageName": "Gabon",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 35.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
+      "networkSpeed": "3G",
+      "apn": null,
       "tethering": null
     },
     {
@@ -115,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
       "networkSpeed": "3G",
       "apn": null,
       "tethering": null
@@ -132,24 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
-      "networkSpeed": "3G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "GA",
-      "rawCoverageName": "Gabon",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 35.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
       "networkSpeed": "3G",
       "apn": null,
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
       "networkSpeed": "3G",
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -200,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -217,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -234,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -251,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -268,7 +268,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -285,7 +285,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-gabon?packageId=3737",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -302,7 +302,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-gabon?packageId=3736",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -319,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-gabon?packageId=3735",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -336,7 +336,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-gabon?packageId=3738",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -353,7 +353,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/gabon-data-plans/gabon-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-21T19:47:23.589553+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:25.089023+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -370,7 +370,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/gabon-data-plans/gabon-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-21T19:47:23.589553+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:25.089023+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null

@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/lesotho-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "3G",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/lesotho-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "3G",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/lesotho-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "3G",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/lesotho-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "3G",
       "apn": "wbdata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/lesotho-esim",
-      "lastCheckedAt": "2026-07-21T19:41:18.318145+00:00",
+      "lastCheckedAt": "2026-07-22T19:36:18.211118+00:00",
       "networkSpeed": "3G",
       "apn": "wbdata",
       "tethering": null
@@ -92,13 +92,13 @@
       "coverageCode": "LS",
       "rawCoverageName": "Lesotho",
       "days": 30,
-      "dataGb": 10.0,
+      "dataGb": 5.0,
       "isUnlimited": false,
-      "priceUsd": 25.0,
+      "priceUsd": 15.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/lesotho-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/lesotho-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -126,13 +126,13 @@
       "coverageCode": "LS",
       "rawCoverageName": "Lesotho",
       "days": 30,
-      "dataGb": 5.0,
+      "dataGb": 10.0,
       "isUnlimited": false,
-      "priceUsd": 15.0,
+      "priceUsd": 25.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/lesotho-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/lesotho-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/lesotho-eSIM",
-      "lastCheckedAt": "2026-07-21T19:44:47.505233+00:00",
+      "lastCheckedAt": "2026-07-22T19:39:51.800812+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-lesotho?packageId=3638",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -200,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-lesotho?packageId=3637",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -217,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-lesotho?packageId=3272",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -234,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-lesotho?packageId=3639",
-      "lastCheckedAt": "2026-07-21T19:47:21.216557+00:00",
+      "lastCheckedAt": "2026-07-22T19:42:22.783428+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
