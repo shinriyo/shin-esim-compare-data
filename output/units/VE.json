@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/venezuela-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/venezuela-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/venezuela-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/venezuela-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/venezuela-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/venezuela-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "LTE",
       "apn": "globaldata",
       "tethering": null
@@ -115,24 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/venezuela-eSIM",
-      "lastCheckedAt": "2026-07-27T19:47:58.493408+00:00",
-      "networkSpeed": "LTE/4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "VE",
-      "rawCoverageName": "Venezuela",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 7.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/venezuela-eSIM",
-      "lastCheckedAt": "2026-07-27T19:47:58.493408+00:00",
+      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
       "networkSpeed": "LTE/4G",
       "apn": null,
       "tethering": null
@@ -149,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/venezuela-eSIM",
-      "lastCheckedAt": "2026-07-27T19:47:58.493408+00:00",
+      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
       "networkSpeed": "LTE/4G",
       "apn": null,
       "tethering": null
@@ -166,7 +149,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/venezuela-eSIM",
-      "lastCheckedAt": "2026-07-27T19:47:58.493408+00:00",
+      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
+      "networkSpeed": "LTE/4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "VE",
+      "rawCoverageName": "Venezuela",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 7.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/venezuela-eSIM",
+      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
       "networkSpeed": "LTE/4G",
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-venezuela?packageId=3467",
-      "lastCheckedAt": "2026-07-27T19:50:03.260957+00:00",
+      "lastCheckedAt": "2026-07-28T19:47:03.669876+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -200,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-venezuela?packageId=3466",
-      "lastCheckedAt": "2026-07-27T19:50:03.260957+00:00",
+      "lastCheckedAt": "2026-07-28T19:47:03.669876+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -217,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-venezuela?packageId=3284",
-      "lastCheckedAt": "2026-07-27T19:50:03.260957+00:00",
+      "lastCheckedAt": "2026-07-28T19:47:03.669876+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -234,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-venezuela?packageId=3689",
-      "lastCheckedAt": "2026-07-27T19:50:03.260957+00:00",
+      "lastCheckedAt": "2026-07-28T19:47:03.669876+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -251,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/venezuela-data-plans/venezuela-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-27T19:50:05.041958+00:00",
+      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -268,7 +268,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/venezuela-data-plans/venezuela-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-27T19:50:05.041958+00:00",
+      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -285,7 +285,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/venezuela-data-plans/venezuela-25gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-27T19:50:05.041958+00:00",
+      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -302,7 +302,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/venezuela-data-plans/venezuela-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-27T19:50:05.041958+00:00",
+      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
+      "networkSpeed": null,
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Ubigi",
+      "coverageType": "unit",
+      "coverageCode": "VE",
+      "rawCoverageName": "Venezuela",
+      "days": 8,
+      "dataGb": null,
+      "isUnlimited": true,
+      "priceUsd": 36.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/venezuela-data-plans/venezuela-unlimited-8-days/?wmc-currency=USD",
+      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null

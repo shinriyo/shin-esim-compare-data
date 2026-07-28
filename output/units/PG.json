@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/papua-new-guinea-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/papua-new-guinea-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/papua-new-guinea-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/papua-new-guinea-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -81,26 +81,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/papua-new-guinea-esim",
-      "lastCheckedAt": "2026-07-27T19:44:47.029222+00:00",
+      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "PG",
-      "rawCoverageName": "Papua New Guinea",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 19.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/papua-new-guinea-eSIM",
-      "lastCheckedAt": "2026-07-27T19:47:58.493408+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
       "tethering": null
     },
     {
@@ -115,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/papua-new-guinea-eSIM",
-      "lastCheckedAt": "2026-07-27T19:47:58.493408+00:00",
+      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -132,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/papua-new-guinea-eSIM",
-      "lastCheckedAt": "2026-07-27T19:47:58.493408+00:00",
+      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -149,7 +132,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/papua-new-guinea-eSIM",
-      "lastCheckedAt": "2026-07-27T19:47:58.493408+00:00",
+      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "PG",
+      "rawCoverageName": "Papua New Guinea",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 19.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/papua-new-guinea-eSIM",
+      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
