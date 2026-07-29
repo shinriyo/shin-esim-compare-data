@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/curacao-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/curacao-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/curacao-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -64,7 +64,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/curacao-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Airalo",
+      "coverageType": "unit",
+      "coverageCode": "CW",
+      "rawCoverageName": "Curaçao",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 49.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.airalo.com/curacao-esim",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -81,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/curacao-data-plans/curacao-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:57.224594+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -98,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/curacao-data-plans/curacao-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:57.224594+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -115,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/curacao-data-plans/curacao-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:57.224594+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -132,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/curacao-data-plans/curacao-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:57.224594+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null

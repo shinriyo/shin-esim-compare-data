@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bhutan-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "5G",
       "apn": "e-ideas",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bhutan-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "5G",
       "apn": "e-ideas",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bhutan-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "5G",
       "apn": "e-ideas",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bhutan-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "5G",
       "apn": "e-ideas",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bhutan-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "5G",
       "apn": "e-ideas",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bhutan-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "5G",
       "apn": "e-ideas",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/bhutan-esim",
-      "lastCheckedAt": "2026-07-28T19:42:10.148942+00:00",
+      "lastCheckedAt": "2026-07-29T19:33:21.459044+00:00",
       "networkSpeed": "5G",
       "apn": "e-ideas",
       "tethering": null
@@ -132,24 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bhutan-eSIM",
-      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
-      "networkSpeed": "LTE/4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "BT",
-      "rawCoverageName": "Bhutan",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 65.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/bhutan-eSIM",
-      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
+      "lastCheckedAt": "2026-07-29T19:37:19.874989+00:00",
       "networkSpeed": "LTE/4G",
       "apn": null,
       "tethering": null
@@ -166,7 +149,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/bhutan-eSIM",
-      "lastCheckedAt": "2026-07-28T19:45:00.067961+00:00",
+      "lastCheckedAt": "2026-07-29T19:37:19.874989+00:00",
+      "networkSpeed": "LTE/4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "BT",
+      "rawCoverageName": "Bhutan",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 65.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/bhutan-eSIM",
+      "lastCheckedAt": "2026-07-29T19:37:19.874989+00:00",
       "networkSpeed": "LTE/4G",
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-bhutan?packageId=3595",
-      "lastCheckedAt": "2026-07-28T19:47:03.669876+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:55.028871+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -200,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-bhutan?packageId=3594",
-      "lastCheckedAt": "2026-07-28T19:47:03.669876+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:55.028871+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -217,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-bhutan?packageId=3593",
-      "lastCheckedAt": "2026-07-28T19:47:03.669876+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:55.028871+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -234,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-bhutan?packageId=3596",
-      "lastCheckedAt": "2026-07-28T19:47:03.669876+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:55.028871+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -251,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/bhutan-data-plans/bhutan-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-28T19:47:05.725990+00:00",
+      "lastCheckedAt": "2026-07-29T19:39:57.224594+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
