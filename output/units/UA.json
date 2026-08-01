@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
       "tethering": null
@@ -200,26 +200,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/ukraine-esim",
-      "lastCheckedAt": "2026-07-31T19:44:11.396625+00:00",
+      "lastCheckedAt": "2026-08-01T19:19:17.626316+00:00",
       "networkSpeed": "4G",
       "apn": "globaldata/orange/orange.fr",
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "UA",
-      "rawCoverageName": "Ukraine",
-      "days": 30,
-      "dataGb": 20.0,
-      "isUnlimited": false,
-      "priceUsd": 21.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
-      "lastCheckedAt": "2026-07-31T19:48:09.095206+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
       "tethering": null
     },
     {
@@ -234,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
-      "lastCheckedAt": "2026-07-31T19:48:09.095206+00:00",
+      "lastCheckedAt": "2026-08-01T19:22:04.812294+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -251,41 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
-      "lastCheckedAt": "2026-07-31T19:48:09.095206+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "UA",
-      "rawCoverageName": "Ukraine",
-      "days": 30,
-      "dataGb": 50.0,
-      "isUnlimited": false,
-      "priceUsd": 31.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
-      "lastCheckedAt": "2026-07-31T19:48:09.095206+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "UA",
-      "rawCoverageName": "Ukraine",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 9.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
-      "lastCheckedAt": "2026-07-31T19:48:09.095206+00:00",
+      "lastCheckedAt": "2026-08-01T19:22:04.812294+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -302,7 +251,58 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
-      "lastCheckedAt": "2026-07-31T19:48:09.095206+00:00",
+      "lastCheckedAt": "2026-08-01T19:22:04.812294+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "UA",
+      "rawCoverageName": "Ukraine",
+      "days": 30,
+      "dataGb": 50.0,
+      "isUnlimited": false,
+      "priceUsd": 31.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
+      "lastCheckedAt": "2026-08-01T19:22:04.812294+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "UA",
+      "rawCoverageName": "Ukraine",
+      "days": 30,
+      "dataGb": 3.0,
+      "isUnlimited": false,
+      "priceUsd": 9.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
+      "lastCheckedAt": "2026-08-01T19:22:04.812294+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "UA",
+      "rawCoverageName": "Ukraine",
+      "days": 30,
+      "dataGb": 20.0,
+      "isUnlimited": false,
+      "priceUsd": 21.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/ukraine-eSIM",
+      "lastCheckedAt": "2026-08-01T19:22:04.812294+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -319,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-ukraine?packageId=3527",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -336,7 +336,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-ukraine?packageId=3526",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -353,7 +353,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-ukraine?packageId=138",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -370,7 +370,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-ukraine?packageId=3528",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -387,7 +387,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2719",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -404,7 +404,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=3244",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -421,7 +421,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=3418",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -438,7 +438,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2272",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -455,7 +455,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2256",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -472,7 +472,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=1560",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -489,7 +489,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=1747",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -506,7 +506,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2680",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -523,7 +523,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=2697",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -540,7 +540,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=3297",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -557,7 +557,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-37-countries?packageId=3296",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -574,7 +574,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -591,7 +591,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -608,7 +608,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -625,7 +625,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -642,7 +642,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -659,7 +659,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -676,7 +676,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3301",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -693,7 +693,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3300",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -710,7 +710,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3302",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -727,7 +727,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3304",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -744,7 +744,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3303",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -761,7 +761,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3305",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -778,7 +778,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3307",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -795,7 +795,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3306",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -812,7 +812,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3309",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -829,7 +829,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-europe-plus?packageId=3308",
-      "lastCheckedAt": "2026-07-31T19:51:09.620451+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:05.437160+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -846,7 +846,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/ukraine-data-plans/ukraine-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-31T19:51:12.116129+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:07.240524+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -863,7 +863,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/ukraine-data-plans/ukraine-50gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-31T19:51:12.116129+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:07.240524+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -880,7 +880,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/ukraine-data-plans/ukraine-unlimited-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-31T19:51:12.116129+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:07.240524+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -897,7 +897,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/ukraine-data-plans/ukraine-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-07-31T19:51:12.116129+00:00",
+      "lastCheckedAt": "2026-08-01T19:24:07.240524+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
