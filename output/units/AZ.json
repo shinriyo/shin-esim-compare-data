@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
       "tethering": null
@@ -200,26 +200,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/azerbaijan-esim",
-      "lastCheckedAt": "2026-08-04T19:45:46.752571+00:00",
+      "lastCheckedAt": "2026-08-05T19:44:52.298642+00:00",
       "networkSpeed": "5G/3G",
       "apn": "globaldata",
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "AZ",
-      "rawCoverageName": "Azerbaijan",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 12.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/azerbaijan-eSIM",
-      "lastCheckedAt": "2026-08-04T19:48:39.380979+00:00",
-      "networkSpeed": "4G/5G",
-      "apn": null,
       "tethering": null
     },
     {
@@ -234,7 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/azerbaijan-eSIM",
-      "lastCheckedAt": "2026-08-04T19:48:39.380979+00:00",
+      "lastCheckedAt": "2026-08-05T19:48:20.623726+00:00",
       "networkSpeed": "4G/5G",
       "apn": null,
       "tethering": null
@@ -251,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/azerbaijan-eSIM",
-      "lastCheckedAt": "2026-08-04T19:48:39.380979+00:00",
+      "lastCheckedAt": "2026-08-05T19:48:20.623726+00:00",
       "networkSpeed": "4G/5G",
       "apn": null,
       "tethering": null
@@ -261,14 +244,14 @@
       "coverageType": "unit",
       "coverageCode": "AZ",
       "rawCoverageName": "Azerbaijan",
-      "days": 7,
-      "dataGb": 1.0,
+      "days": 30,
+      "dataGb": 3.0,
       "isUnlimited": false,
-      "priceUsd": 6.0,
+      "priceUsd": 12.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/azerbaijan-eSIM",
-      "lastCheckedAt": "2026-08-04T19:48:39.380979+00:00",
+      "lastCheckedAt": "2026-08-05T19:48:20.623726+00:00",
       "networkSpeed": "4G/5G",
       "apn": null,
       "tethering": null
@@ -285,7 +268,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/azerbaijan-eSIM",
-      "lastCheckedAt": "2026-08-04T19:48:39.380979+00:00",
+      "lastCheckedAt": "2026-08-05T19:48:20.623726+00:00",
+      "networkSpeed": "4G/5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "AZ",
+      "rawCoverageName": "Azerbaijan",
+      "days": 7,
+      "dataGb": 1.0,
+      "isUnlimited": false,
+      "priceUsd": 6.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/azerbaijan-eSIM",
+      "lastCheckedAt": "2026-08-05T19:48:20.623726+00:00",
       "networkSpeed": "4G/5G",
       "apn": null,
       "tethering": null
@@ -302,7 +302,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-azerbaijan?packageId=3445",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -319,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-azerbaijan?packageId=145",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -336,7 +336,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-azerbaijan?packageId=18",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -353,7 +353,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-azerbaijan?packageId=3446",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -370,7 +370,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2772",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -387,7 +387,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3253",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -404,7 +404,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2689",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -421,7 +421,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2774",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -438,7 +438,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=3405",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -455,7 +455,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esim.redteago.com/esim-global-130-areas?packageId=2872",
-      "lastCheckedAt": "2026-08-04T19:50:45.300762+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:00.095598+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -472,7 +472,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/azerbaijan-data-plans/azerbaijan-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-04T19:50:47.245826+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:02.133083+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -489,7 +489,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/azerbaijan-data-plans/azerbaijan-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-04T19:50:47.245826+00:00",
+      "lastCheckedAt": "2026-08-05T19:51:02.133083+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
