@@ -13,25 +13,8 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/namibia-eSIM",
-      "lastCheckedAt": "2026-08-08T18:50:45.697266+00:00",
+      "lastCheckedAt": "2026-08-09T18:53:40.827726+00:00",
       "networkSpeed": "3G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Ubigi",
-      "coverageType": "unit",
-      "coverageCode": "NA",
-      "rawCoverageName": "Namibia",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 50.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/namibia-data-plans/namibia-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-08T18:53:16.157427+00:00",
-      "networkSpeed": null,
       "apn": null,
       "tethering": null
     }

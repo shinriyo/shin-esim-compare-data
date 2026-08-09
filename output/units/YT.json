@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mayotte-esim",
-      "lastCheckedAt": "2026-08-08T18:47:49.505253+00:00",
+      "lastCheckedAt": "2026-08-09T18:50:50.749585+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mayotte-esim",
-      "lastCheckedAt": "2026-08-08T18:47:49.505253+00:00",
+      "lastCheckedAt": "2026-08-09T18:50:50.749585+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mayotte-esim",
-      "lastCheckedAt": "2026-08-08T18:47:49.505253+00:00",
+      "lastCheckedAt": "2026-08-09T18:50:50.749585+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mayotte-esim",
-      "lastCheckedAt": "2026-08-08T18:47:49.505253+00:00",
+      "lastCheckedAt": "2026-08-09T18:50:50.749585+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mayotte-esim",
-      "lastCheckedAt": "2026-08-08T18:47:49.505253+00:00",
+      "lastCheckedAt": "2026-08-09T18:50:50.749585+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mayotte-esim",
-      "lastCheckedAt": "2026-08-08T18:47:49.505253+00:00",
+      "lastCheckedAt": "2026-08-09T18:50:50.749585+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -115,43 +115,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/mayotte-esim",
-      "lastCheckedAt": "2026-08-08T18:47:49.505253+00:00",
+      "lastCheckedAt": "2026-08-09T18:50:50.749585+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
-      "tethering": null
-    },
-    {
-      "provider": "Ubigi",
-      "coverageType": "unit",
-      "coverageCode": "YT",
-      "rawCoverageName": "Mayotte",
-      "days": 7,
-      "dataGb": 1.0,
-      "isUnlimited": false,
-      "priceUsd": 6.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/mayotte-data-plans/mayotte-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-08T18:53:16.157427+00:00",
-      "networkSpeed": null,
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Ubigi",
-      "coverageType": "unit",
-      "coverageCode": "YT",
-      "rawCoverageName": "Mayotte",
-      "days": 15,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 14.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/mayotte-data-plans/mayotte-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-08T18:53:16.157427+00:00",
-      "networkSpeed": null,
-      "apn": null,
       "tethering": null
     }
   ]
