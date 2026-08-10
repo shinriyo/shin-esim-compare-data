@@ -1,15 +1,16 @@
 {
-  "generatedAt": "2026-08-09T18:56:23.927284166+00:00",
+  "generatedAt": "2026-08-10T19:10:33.095819087+00:00",
   "lintWarnings": 24,
   "planCounts": {
-    "regions": 142,
-    "units": 6663
+    "regions": 174,
+    "units": 7560
   },
   "providers": [
     "Airalo",
     "ByteSIM",
     "eSIM Data",
-    "Nomad"
+    "Nomad",
+    "Ubigi"
   ],
   "regions": [
     "ASIA",
@@ -120,6 +121,7 @@
     "KE",
     "KG",
     "KH",
+    "KM",
     "KN",
     "KR",
     "KW",
@@ -157,6 +159,7 @@
     "MY",
     "MZ",
     "NA",
+    "NC",
     "NE",
     "NG",
     "NI",
