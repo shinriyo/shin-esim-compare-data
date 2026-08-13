@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/madagascar-esim",
-      "lastCheckedAt": "2026-08-12T19:10:33.754883+00:00",
+      "lastCheckedAt": "2026-08-13T19:11:33.685565+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/madagascar-esim",
-      "lastCheckedAt": "2026-08-12T19:10:33.754883+00:00",
+      "lastCheckedAt": "2026-08-13T19:11:33.685565+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/madagascar-esim",
-      "lastCheckedAt": "2026-08-12T19:10:33.754883+00:00",
+      "lastCheckedAt": "2026-08-13T19:11:33.685565+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/madagascar-esim",
-      "lastCheckedAt": "2026-08-12T19:10:33.754883+00:00",
+      "lastCheckedAt": "2026-08-13T19:11:33.685565+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/madagascar-esim",
-      "lastCheckedAt": "2026-08-12T19:10:33.754883+00:00",
+      "lastCheckedAt": "2026-08-13T19:11:33.685565+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/madagascar-esim",
-      "lastCheckedAt": "2026-08-12T19:10:33.754883+00:00",
+      "lastCheckedAt": "2026-08-13T19:11:33.685565+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-madagascar",
-      "lastCheckedAt": "2026-08-12T19:12:36.130760+00:00",
+      "lastCheckedAt": "2026-08-13T19:13:39.991720+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-madagascar",
-      "lastCheckedAt": "2026-08-12T19:12:36.130760+00:00",
+      "lastCheckedAt": "2026-08-13T19:13:39.991720+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-madagascar",
-      "lastCheckedAt": "2026-08-12T19:12:36.130760+00:00",
+      "lastCheckedAt": "2026-08-13T19:13:39.991720+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://esimdata.io/products/esim-madagascar",
-      "lastCheckedAt": "2026-08-12T19:12:36.130760+00:00",
+      "lastCheckedAt": "2026-08-13T19:13:39.991720+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/madagascar-eSIM",
-      "lastCheckedAt": "2026-08-12T19:13:53.956346+00:00",
+      "lastCheckedAt": "2026-08-13T19:15:17.818410+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -200,24 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/madagascar-eSIM",
-      "lastCheckedAt": "2026-08-12T19:13:53.956346+00:00",
-      "networkSpeed": "4G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "MG",
-      "rawCoverageName": "Madagascar",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 17.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/madagascar-eSIM",
-      "lastCheckedAt": "2026-08-12T19:13:53.956346+00:00",
+      "lastCheckedAt": "2026-08-13T19:15:17.818410+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -234,7 +217,24 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/madagascar-eSIM",
-      "lastCheckedAt": "2026-08-12T19:13:53.956346+00:00",
+      "lastCheckedAt": "2026-08-13T19:15:17.818410+00:00",
+      "networkSpeed": "4G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "MG",
+      "rawCoverageName": "Madagascar",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 17.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/madagascar-eSIM",
+      "lastCheckedAt": "2026-08-13T19:15:17.818410+00:00",
       "networkSpeed": "4G",
       "apn": null,
       "tethering": null
@@ -251,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/madagascar-data-plans/madagascar-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-12T19:16:18.391371+00:00",
+      "lastCheckedAt": "2026-08-13T19:18:14.355954+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -268,7 +268,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/madagascar-data-plans/madagascar-10gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-12T19:16:18.391371+00:00",
+      "lastCheckedAt": "2026-08-13T19:18:14.355954+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -285,7 +285,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/madagascar-data-plans/madagascar-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-12T19:16:18.391371+00:00",
+      "lastCheckedAt": "2026-08-13T19:18:14.355954+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -302,7 +302,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/madagascar-data-plans/madagascar-25gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-12T19:16:18.391371+00:00",
+      "lastCheckedAt": "2026-08-13T19:18:14.355954+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -319,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/madagascar-data-plans/madagascar-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-12T19:16:18.391371+00:00",
+      "lastCheckedAt": "2026-08-13T19:18:14.355954+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -336,7 +336,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/madagascar-data-plans/madagascar-unlimited-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-12T19:16:18.391371+00:00",
+      "lastCheckedAt": "2026-08-13T19:18:14.355954+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -353,7 +353,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/madagascar-data-plans/madagascar-unlimited-8-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-12T19:16:18.391371+00:00",
+      "lastCheckedAt": "2026-08-13T19:18:14.355954+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
