@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/vanuatu-esim",
-      "lastCheckedAt": "2026-08-15T18:38:05.888171+00:00",
+      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/vanuatu-esim",
-      "lastCheckedAt": "2026-08-15T18:38:05.888171+00:00",
+      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/vanuatu-esim",
-      "lastCheckedAt": "2026-08-15T18:38:05.888171+00:00",
+      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/vanuatu-esim",
-      "lastCheckedAt": "2026-08-15T18:38:05.888171+00:00",
+      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/vanuatu-esim",
-      "lastCheckedAt": "2026-08-15T18:38:05.888171+00:00",
+      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
       "tethering": null
@@ -98,9 +98,26 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/vanuatu-esim",
-      "lastCheckedAt": "2026-08-15T18:38:05.888171+00:00",
+      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
       "networkSpeed": "4G",
       "apn": "wbdata",
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "VU",
+      "rawCoverageName": "Vanuatu",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 45.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/vanuatu-eSIM",
+      "lastCheckedAt": "2026-08-16T18:40:59.640519+00:00",
+      "networkSpeed": "3G",
+      "apn": null,
       "tethering": null
     },
     {
@@ -115,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/vanuatu-eSIM",
-      "lastCheckedAt": "2026-08-15T18:42:05.872115+00:00",
+      "lastCheckedAt": "2026-08-16T18:40:59.640519+00:00",
       "networkSpeed": "3G",
       "apn": null,
       "tethering": null
@@ -132,24 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/vanuatu-eSIM",
-      "lastCheckedAt": "2026-08-15T18:42:05.872115+00:00",
-      "networkSpeed": "3G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "VU",
-      "rawCoverageName": "Vanuatu",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 45.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/vanuatu-eSIM",
-      "lastCheckedAt": "2026-08-15T18:42:05.872115+00:00",
+      "lastCheckedAt": "2026-08-16T18:40:59.640519+00:00",
       "networkSpeed": "3G",
       "apn": null,
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/vanuatu-data-plans/vanuatu-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-15T18:45:41.915889+00:00",
+      "lastCheckedAt": "2026-08-16T18:44:10.359253+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/vanuatu-data-plans/vanuatu-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-15T18:45:41.915889+00:00",
+      "lastCheckedAt": "2026-08-16T18:44:10.359253+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
