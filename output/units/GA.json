@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
+      "lastCheckedAt": "2026-08-17T18:48:49.250227+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
+      "lastCheckedAt": "2026-08-17T18:48:49.250227+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
+      "lastCheckedAt": "2026-08-17T18:48:49.250227+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
+      "lastCheckedAt": "2026-08-17T18:48:49.250227+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
+      "lastCheckedAt": "2026-08-17T18:48:49.250227+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
       "tethering": null
@@ -98,9 +98,26 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/gabon-esim",
-      "lastCheckedAt": "2026-08-16T18:37:12.488183+00:00",
+      "lastCheckedAt": "2026-08-17T18:48:49.250227+00:00",
       "networkSpeed": "4G",
       "apn": "e-ideas",
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "GA",
+      "rawCoverageName": "Gabon",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 35.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
+      "lastCheckedAt": "2026-08-17T18:52:23.141381+00:00",
+      "networkSpeed": "3G",
+      "apn": null,
       "tethering": null
     },
     {
@@ -115,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
-      "lastCheckedAt": "2026-08-16T18:40:59.640519+00:00",
+      "lastCheckedAt": "2026-08-17T18:52:23.141381+00:00",
       "networkSpeed": "3G",
       "apn": null,
       "tethering": null
@@ -132,24 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
-      "lastCheckedAt": "2026-08-16T18:40:59.640519+00:00",
-      "networkSpeed": "3G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "GA",
-      "rawCoverageName": "Gabon",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 35.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
-      "lastCheckedAt": "2026-08-16T18:40:59.640519+00:00",
+      "lastCheckedAt": "2026-08-17T18:52:23.141381+00:00",
       "networkSpeed": "3G",
       "apn": null,
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/gabon-eSIM",
-      "lastCheckedAt": "2026-08-16T18:40:59.640519+00:00",
+      "lastCheckedAt": "2026-08-17T18:52:23.141381+00:00",
       "networkSpeed": "3G",
       "apn": null,
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/gabon-data-plans/gabon-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-16T18:44:10.359253+00:00",
+      "lastCheckedAt": "2026-08-17T18:54:55.657340+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -200,7 +200,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/gabon-data-plans/gabon-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-16T18:44:10.359253+00:00",
+      "lastCheckedAt": "2026-08-17T18:54:55.657340+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
