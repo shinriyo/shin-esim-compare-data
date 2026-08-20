@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
       "tethering": null
@@ -200,9 +200,26 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/monaco-esim",
-      "lastCheckedAt": "2026-08-19T18:43:46.723777+00:00",
+      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
       "networkSpeed": "5G",
       "apn": "globalapnfr.com",
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "MC",
+      "rawCoverageName": "Monaco",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 39.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/monaco-eSIM",
+      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
       "tethering": null
     },
     {
@@ -217,24 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/monaco-eSIM",
-      "lastCheckedAt": "2026-08-19T18:47:01.121935+00:00",
-      "networkSpeed": "5G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "MC",
-      "rawCoverageName": "Monaco",
-      "days": 30,
-      "dataGb": 3.0,
-      "isUnlimited": false,
-      "priceUsd": 15.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/monaco-eSIM",
-      "lastCheckedAt": "2026-08-19T18:47:01.121935+00:00",
+      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -251,7 +251,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/monaco-eSIM",
-      "lastCheckedAt": "2026-08-19T18:47:01.121935+00:00",
+      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -268,7 +268,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/monaco-eSIM",
-      "lastCheckedAt": "2026-08-19T18:47:01.121935+00:00",
+      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -279,13 +279,13 @@
       "coverageCode": "MC",
       "rawCoverageName": "Monaco",
       "days": 30,
-      "dataGb": 10.0,
+      "dataGb": 3.0,
       "isUnlimited": false,
-      "priceUsd": 39.0,
+      "priceUsd": 15.0,
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/monaco-eSIM",
-      "lastCheckedAt": "2026-08-19T18:47:01.121935+00:00",
+      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
