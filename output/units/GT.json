@@ -13,7 +13,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata",
       "tethering": null
@@ -30,7 +30,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata",
       "tethering": null
@@ -47,7 +47,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata",
       "tethering": null
@@ -64,7 +64,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata",
       "tethering": null
@@ -81,7 +81,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata",
       "tethering": null
@@ -98,7 +98,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata",
       "tethering": null
@@ -115,7 +115,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata/isp",
       "tethering": null
@@ -132,7 +132,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata/isp",
       "tethering": null
@@ -149,7 +149,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata/isp",
       "tethering": null
@@ -166,7 +166,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata/isp",
       "tethering": null
@@ -183,7 +183,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata/isp",
       "tethering": null
@@ -200,26 +200,9 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.airalo.com/guatemala-esim",
-      "lastCheckedAt": "2026-08-20T18:49:42.379140+00:00",
+      "lastCheckedAt": "2026-08-21T18:46:20.599098+00:00",
       "networkSpeed": "5G/4G",
       "apn": "globaldata/isp",
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "GT",
-      "rawCoverageName": "Guatemala",
-      "days": 30,
-      "dataGb": 5.0,
-      "isUnlimited": false,
-      "priceUsd": 19.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/guatemala-eSIM",
-      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
-      "networkSpeed": "5G",
-      "apn": null,
       "tethering": null
     },
     {
@@ -234,24 +217,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/guatemala-eSIM",
-      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
-      "networkSpeed": "5G",
-      "apn": null,
-      "tethering": null
-    },
-    {
-      "provider": "Nomad",
-      "coverageType": "unit",
-      "coverageCode": "GT",
-      "rawCoverageName": "Guatemala",
-      "days": 30,
-      "dataGb": 10.0,
-      "isUnlimited": false,
-      "priceUsd": 29.0,
-      "currency": "USD",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.getnomad.app/guatemala-eSIM",
-      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
+      "lastCheckedAt": "2026-08-21T18:49:50.858914+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -268,7 +234,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/guatemala-eSIM",
-      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
+      "lastCheckedAt": "2026-08-21T18:49:50.858914+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -285,7 +251,41 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://www.getnomad.app/guatemala-eSIM",
-      "lastCheckedAt": "2026-08-20T18:53:06.175200+00:00",
+      "lastCheckedAt": "2026-08-21T18:49:50.858914+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "GT",
+      "rawCoverageName": "Guatemala",
+      "days": 30,
+      "dataGb": 10.0,
+      "isUnlimited": false,
+      "priceUsd": 29.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/guatemala-eSIM",
+      "lastCheckedAt": "2026-08-21T18:49:50.858914+00:00",
+      "networkSpeed": "5G",
+      "apn": null,
+      "tethering": null
+    },
+    {
+      "provider": "Nomad",
+      "coverageType": "unit",
+      "coverageCode": "GT",
+      "rawCoverageName": "Guatemala",
+      "days": 30,
+      "dataGb": 5.0,
+      "isUnlimited": false,
+      "priceUsd": 19.0,
+      "currency": "USD",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.getnomad.app/guatemala-eSIM",
+      "lastCheckedAt": "2026-08-21T18:49:50.858914+00:00",
       "networkSpeed": "5G",
       "apn": null,
       "tethering": null
@@ -302,7 +302,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/guatemala-data-plans/guatemala-10gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-20T18:56:06.456044+00:00",
+      "lastCheckedAt": "2026-08-21T18:52:47.912545+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -319,7 +319,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/guatemala-data-plans/guatemala-1gb-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-20T18:56:06.456044+00:00",
+      "lastCheckedAt": "2026-08-21T18:52:47.912545+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -336,7 +336,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/guatemala-data-plans/guatemala-25gb-30-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-20T18:56:06.456044+00:00",
+      "lastCheckedAt": "2026-08-21T18:52:47.912545+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -353,7 +353,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/guatemala-data-plans/guatemala-3gb-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-20T18:56:06.456044+00:00",
+      "lastCheckedAt": "2026-08-21T18:52:47.912545+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -370,7 +370,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/guatemala-data-plans/guatemala-unlimited-15-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-20T18:56:06.456044+00:00",
+      "lastCheckedAt": "2026-08-21T18:52:47.912545+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
@@ -387,7 +387,7 @@
       "currency": "USD",
       "affiliateUrl": "",
       "sourceUrl": "https://cellulardata.ubigi.com/rates-and-coverage/guatemala-data-plans/guatemala-unlimited-7-days/?wmc-currency=USD",
-      "lastCheckedAt": "2026-08-20T18:56:06.456044+00:00",
+      "lastCheckedAt": "2026-08-21T18:52:47.912545+00:00",
       "networkSpeed": null,
       "apn": null,
       "tethering": null
